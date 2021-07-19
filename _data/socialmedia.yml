@@ -3,11 +3,6 @@
 #  class: icon-github
 #  title: Code und mehr...
 
- - name: Facebook
-   url: https://www.facebook.com/robbygoodmusic/
-   class: icon-facebook
-   title: ""
-
  - name: Instagram
    url: https://www.instagram.com/robbygoodmusic/
    class: icon-instagram
