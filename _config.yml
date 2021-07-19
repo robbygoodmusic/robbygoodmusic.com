@@ -112,7 +112,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Kian Ravaei     # Default author for pages
+      author: Robby Good     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Kian Ravaei     # Default author for posts
+      author: Robby Good     # Default author for posts
 
 
 
@@ -206,7 +206,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: kianravaei
+disqus_shortname: robbygoodmusic
 
 
 #      _____
