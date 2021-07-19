@@ -38,7 +38,7 @@ improve_content: https://github.com/woof84/kianravaei/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://kianravaei.com/images/'
+urlimg: 'https://robbygoodmusic.com/images/'
 
 
 # Logo size is 600x80 pixels
@@ -206,7 +206,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: kianravaei
+disqus_shortname: robbygoodmusic
 
 
 #      _____
