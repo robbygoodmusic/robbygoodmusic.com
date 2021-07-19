@@ -8,24 +8,24 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Robby Good'
+title: 'Robby Good Music'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Composer'
+slogan: 'Composer | Percussionist | Keyboardist'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Official site of composer Robby Good. Listen to music, read about works, view upcoming performances, and more.'
+description: 'Robby Good Music - music for film, video games, concert performances, and more.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: 
 
 # Main author of the website
 # See > authors.yml
-author: Kian Ravaei
+author: Robby Good
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://kianravaei.com'
+url: 'https://robbygoodmusic.com'
 baseurl:
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/woof84/kianravaei/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://kianravaei.com/images/'
+urlimg: 'https://robbygoodmusic.com/images/'
 
 
 # Logo size is 600x80 pixels

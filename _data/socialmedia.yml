@@ -3,18 +3,23 @@
 #  class: icon-github
 #  title: Code und mehr...
 
+ - name: Facebook
+   url: https://www.facebook.com/robbygoodmusic/
+   class: icon-facebook
+   title: ""
+
  - name: Instagram
-   url: http://instagram.com/kianravaei
+   url: https://www.instagram.com/robbygoodmusic/
    class: icon-instagram
    title: ""
 
  - name: Soundcloud
-   url: http://soundcloud.com/kianravaei
+   url: https://soundcloud.com/robbygoodmusic
    class: icon-soundcloud
    title: ""
 
  - name: YouTube
-   url: https://www.youtube.com/channel/UCIoNzZ1W3Av6_rh42WP5MOQ
+   url: https://www.youtube.com/channel/UCpBrBEHh1QwvKiLgyd6Zv6g
    class: icon-youtube
    title: ""
 
