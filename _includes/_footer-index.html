@@ -26,7 +26,7 @@
             
             <!--Performances-->
 
-            <div class="small-6 medium-3 large-3 large-offset-1 columns">
+            <div class="small-6 medium-3 large-3 columns">
                 <h5 class="shadow-black">Upcoming Events</h5>
 
                 <ul class="no-bullet shadow-black">
@@ -86,9 +86,7 @@
                     {% for item in site.data.featuredworks %}
                     {% for work in site.works %}
                     {% if work.title == item.featured-work %}
-                    <li>
                         <a href="mailto:robbygoodmusic@gmail.com">robbygoodmusic@gmail.com</a>
-                    </li>
                     {% endif %}
                     {% endfor %}
                     {% endfor %}
