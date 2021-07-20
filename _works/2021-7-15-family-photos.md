@@ -1,16 +1,16 @@
 ---
 layout: work
-title: "Family Photos"
-instrumentation: string quartet
-year_composed: 2021
-category_music: Chamber Ensemble
-duration: 10'
-commissioner: Salastina
+title: ""My" Prelude and Fugue"
+instrumentation: solo piano
+year_composed: 2020
+category_music: Solo
+duration: 4'15"
+commissioner:
 score_url:
 youtube:
- - url-code: LdOjZPYyBms
+ - url-code:
 soundcloud: 
  - url:
 ---
 
-_Family Photos_ is a musical scrapbook of personally significant places I visited with my family in childhood. The first movement, “At the Carnival,” takes inspiration from the whimsy and spectacle of my neighborhood carnival. “On the Tehran Tower,” the second movement, incorporates elements of Iranian classical music, inspired by my childhood trips to visit family in Tehran. The third and final movement, “In Arcadia,” represents not only my hometown in the suburbs of Los Angeles, but also the Arcadia of Ancient Greek mythology, a heaven on Earth.
+_"My" Prelude and Fugue_ was a piece composed for renowned pianist and Bach scholar Stefano Greco. The Prelude is a furious rush through a singular motif, while the Fugue maintains a straight, breathy composure.
