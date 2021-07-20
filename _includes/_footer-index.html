@@ -19,7 +19,7 @@
                 <h5 class="shadow-black">About</h5>
 
                 <p class="shadow-black">
-                    <strong>Kian Ravaei</strong> (b. 1999) composes music that evokes the fantastic and the quotidian, engages with dreams and politics, and leverages music's power over the emotions.
+                    <strong>Robby Good</strong> (b. 2000) is a Los Angeles-based composer for films, animations, video games, and all forms of visual media. He composes numerous concert and chamber works as well. 
                     <a href="{{ site.url }}{{ site.baseurl }}/about/">{{ site.data.language.more }}</a>
                 </p>
             </div><!-- /.large-6.columns -->
@@ -27,7 +27,7 @@
             <!--Featured Works-->
 
             <div class="small-6 medium-3 large-3 large-offset-1 columns">
-                <h5 class="shadow-black">Featured Works</h5>
+                <h5 class="shadow-black">Recent Works</h5>
 
                 <ul class="no-bullet shadow-black">
                     {% for item in site.data.featuredworks %}
@@ -43,14 +43,33 @@
                 </ul>
             </div><!-- /.large-4.columns -->
 
+             <!--Featured Works-->
+
+            <div class="small-6 medium-3 large-3 large-offset-1 columns">
+                <h5 class="shadow-black">Visual Media Updates</h5>
+
+                <ul class="no-bullet shadow-black">
+                    {% for item in site.data.featuredworks %}
+                    {% for work in site.works %}
+                    {% if work.title == item.featured-work %}
+                    <li>
+                        <a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a> for {{work.instrumentation}}
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                    {% endfor %}
+                    <li><a href="{{ site.url }}{{ site.baseurl }}/works/" style="float:right;">Watch More ›</a></li>
+                </ul>
+            </div><!-- /.large-4.columns -->
+            
             <!--Performances-->
 
             <div class="small-6 medium-3 large-3 columns">
-                <h5 class="shadow-black">Concerts</h5>
+                <h5 class="shadow-black">Events</h5>
 
                 <ul class="no-bullet shadow-black">
                     {% for page in site.pages %}
-                    {% if page.title == "Performances" %}
+                    {% if page.title == "Events" %}
                     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                     {% for item in page.performances reversed %}
                     {% assign not-title = NULL %}
