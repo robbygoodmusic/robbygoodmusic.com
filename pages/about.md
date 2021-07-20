@@ -22,18 +22,21 @@ header:
                 <p>As a performer, Robby studied piano/keyboard for 10 years with Richard Parizer from Robot Nature, and has studied percussion with Matt Cook (LAPQ). He currently studies with UCLA Professors Gregory Goodall and Theresa Dimond.</p>
             </div>
             <div>
-                <a href="{{ site.url }}{{ site.baseurl }}/works/" class="button expand">All Works ›</a>
+                <a href="{{ site.url }}{{ site.baseurl }}/visual-media/" class="button expand">Visual Media ›</a>
             </div>
             <div>
-            <h2 class="text-center">Latest Posts</h2>
-            <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="https://cdn.lightwidget.com/widgets/0bbd37962c9a58ec803b745d52096ccb.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                <a href="{{ site.url }}{{ site.baseurl }}/works/" class="button expand">All Performative Works ›</a>
+            </div>
+            <div>
+            <h2 class="text-center">Press</h2>
+            
             </div>
             <div>
               <div>
                 <a href="https://www.instagram.com/robbygoodmusic/" target="_blank" class="button expand">Follow on Instagram ›</a>
             </div>
 
-</div><!-- /.row -->
+</div> <!-- /.row -->
 </div>
 
 

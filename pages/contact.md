@@ -37,7 +37,7 @@ header:
 For all inquiries (e.g. scores, commissions), please fill out the form below or send a message to <a href="mailto:robbygoodmusic@gmail.com">robbygoodmusic@gmail.com</a>.
 
 <form method="POST"
-  action="https://api.slapform.com/robbygood702@ucla.edu">
+  action="https://api.slapform.com/robbygood702@gmail.edu">
   <strong>Name</strong>
   <input type="text" name="name">
   <strong>Email</strong>

@@ -4,7 +4,7 @@ sidebar: right
 show_meta: false
 title: "Works"
 subheadline: Solo
-description: Interactive list of solo works by Kian Ravaei.
+description: Interactive list of solo works by Robby Good.
 permalink: "/works-solo/"
 ---
 

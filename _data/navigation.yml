@@ -2,7 +2,11 @@
   url: "/about/"
   side: right
 
-- title: "Works"
+- title: "Visual Media"
+  url: "/visual-media/"
+  side: right
+  
+- title: "Playable Works"
   url: "/works/"
   side: right
 
