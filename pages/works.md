@@ -2,9 +2,9 @@
 layout: works
 sidebar: right
 show_meta: false
-title: "Works"
+title: "Playable Works"
 subheadline: All
-description: Interactive list of works by Kian Ravaei.
+description: Interactive list of works by Robby Good.
 permalink: "/works/"
 ---
 
