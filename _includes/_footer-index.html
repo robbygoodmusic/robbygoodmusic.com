@@ -24,6 +24,17 @@
                 </p>
             </div><!-- /.large-6.columns -->
             
+            <!--Featured Works-->
+
+            <div class="small-6 medium-3 large-3 columns">
+                <h5 class="shadow-black">Contact</h5>
+
+                <ul class="no-bullet shadow-black">
+                        <a href="mailto:robbygoodmusic@gmail.com">robbygoodmusic@gmail.com</a>
+                    <li><a href="{{ site.url }}{{ site.baseurl }}/contact/" style="float:right;">More Info ›</a></li>
+                </ul>
+            </div><!-- /.large-4.columns -->
+            
             <!--Performances-->
 
             <div class="small-6 medium-3 large-3 columns">
@@ -76,23 +87,6 @@
             <script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/694add8b617155cd9441445926c052f6.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
           </div>-->
         </div><!-- /.row -->
-        
-<!--Featured Works-->
-
-            <div class="small-6 medium-3 large-3 columns">
-                <h5 class="shadow-black">Contact</h5>
-
-                <ul class="no-bullet shadow-black">
-                    {% for item in site.data.featuredworks %}
-                    {% for work in site.works %}
-                    {% if work.title == item.featured-work %}
-                        <a href="mailto:robbygoodmusic@gmail.com">robbygoodmusic@gmail.com</a>
-                    {% endif %}
-                    {% endfor %}
-                    {% endfor %}
-                    <li><a href="{{ site.url }}{{ site.baseurl }}/contact/" style="float:right;">More Info ›</a></li>
-                </ul>
-            </div><!-- /.large-4.columns -->
     </div><!-- /#footer -->
 
     <!--Subfooter-->
