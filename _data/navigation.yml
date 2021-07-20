@@ -6,8 +6,8 @@
   url: "/works/"
   side: right
 
-- title: "Performances"
-  url: "/performances/"
+- title: "Events"
+  url: "/events/"
   side: right
 
 - title: "Contact"

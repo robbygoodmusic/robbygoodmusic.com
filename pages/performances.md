@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Performances"
-permalink: "/performances/"
+title: "Events"
+permalink: "/events/"
 performances:
   - performance_date: 8 OCT 2021
     performance_title: California Suite - Premiere
