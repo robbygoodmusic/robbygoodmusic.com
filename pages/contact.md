@@ -19,11 +19,11 @@ header:
 <div class="row">
   <div class="medium-6 columns text-center">
     <p style="font-size:100px; margin-bottom:0"><i class="icon-mail"></i></p>
-    <p class="teaser" style="white-space:nowrap;"><a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a></p>
+    <p class="teaser" style="white-space:nowrap;"><a href="mailto:robbygoodmusic@gmail.com">robbygoodmusic@gmail.com</a></p>
     </div>
     <div class="medium-6 columns text-center">
     <p style="font-size:100px; margin-bottom:0"><i class="icon-chat"></i></p>
-    <p class="teaser" style="white-space:nowrap;"><a href="tel:+1626-710-7297">+1 ‪(661) 977-6457‬</a></p>
+    <p class="teaser" style="white-space:nowrap;"><a href="tel:+1661-713-6783">+1 ‪(661) 713-6783‬</a></p>
       </div>
     </div>
 
@@ -34,10 +34,10 @@ header:
 <!-- 
 <p class="teaser">Let's get in touch.</p>
 
-For all inquiries (e.g. scores, commissions), please fill out the form below or send a message to <a href="mailto:kian@kianravaei.com">kian@kianravaei.com</a>.
+For all inquiries (e.g. scores, commissions), please fill out the form below or send a message to <a href="mailto:robbygoodmusic@gmail.com">robbygoodmusic@gmail.com</a>.
 
 <form method="POST"
-  action="https://api.slapform.com/kianravaei@ucla.edu">
+  action="https://api.slapform.com/robbygood702@ucla.edu">
   <strong>Name</strong>
   <input type="text" name="name">
   <strong>Email</strong>
