@@ -3,7 +3,7 @@ layout: works
 sidebar: right
 show_meta: false
 title: "Playable Works"
-subheadline: All
+subheadline: All pieces are available for purchase through email!
 description: Interactive list of works by Robby Good.
 permalink: "/works/"
 ---
