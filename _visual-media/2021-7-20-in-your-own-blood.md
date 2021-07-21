@@ -2,7 +2,7 @@
 layout: visual-media
 title: "In Your Own Blood"
 media_type: Short Film
-release_date: July 20 2021
+release_date: 2021 July 20
 length: 10'
 creator: Marivel Magsaysay
 social: <a href="https://www.marivelmagsaysay.com"><i>marivelmagsaysay.com</i></a>

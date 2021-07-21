@@ -2,7 +2,7 @@
 layout: visual-media
 title: "The Dog Who Brought Home The Sun"
 media_type: Animation
-release_date: June 5 2021
+release_date: 2021 June 5
 length: 4'
 creator: Stacy Li
 social: <a href="https://www.instagram.com/sylichee/?hl=en"><i>@sylichee</i></a>
