@@ -15,7 +15,7 @@ soundcloud:
 vimeo:
  - url:
 drive:
- - url: https://drive.google.com/file/d/1-hbs8nrvMTizGU6hk8uxxZYsylFOtEap/preview
+ - url: <iframe src="https://drive.google.com/file/d/1-hbs8nrvMTizGU6hk8uxxZYsylFOtEap/preview" width="640" height="480" allow="autoplay"></iframe>
 ---
 
 <span class="teaser">Confronted by an impossible obstacle, a young woman grapples with self-doubt and tries to find the strength to move forward.</span>
