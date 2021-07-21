@@ -60,7 +60,7 @@ header:
                 <h3>Media Types</h3>
                 {% assign already_printed = "" | split: "" %}
                 {% assign sorted_post = "" | split: "" %}
-                {% for post in site.visualmedia %}
+                {% for post in site.visual-media %}
                 {% unless already_printed contains post.media_type %}
                 {%- assign sorted_post = sorted_post | push: post.media_type %}
                 {%- assign already_printed = already_printed | push: post.media_type %}
@@ -72,7 +72,7 @@ header:
                   <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media">All Works</a></strong></li>
                   {% endif %}
                 {% for category in sorted_post %}
-                    <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visualmedia-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ category }}</a></strong></li>
+                    <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ category }}</a></strong></li>
                 {% endfor %}
                 </ul>
                 
@@ -80,11 +80,11 @@ header:
             <div>
               <h4>Most Recent Works</h4>
               {% for item in site.data.featuredworks %}
-              {% for work in site.visualmedia %}
-              {% if visualmedia.title == item.featured-audio %}
-              {% if visualmedia.youtube %}
+              {% for work in site.visual-media %}
+              {% if visual-media.title == item.featured-audio %}
+              {% if visual-media.youtube %}
               {% for link in visualmedia.youtube limit: 1 %}
-              <p style="margin-bottom:10px;"><a href="{{ site.url }}{{ site.baseurl }}{{ visualmedia.url }}" title="{{ visualmedia.title }}"><b>{{ visualmedia.title }}</b></a><span style="color: dimgray"> for {{visual_media.instrumentation}}</span></p>
+              <p style="margin-bottom:10px;"><a href="{{ site.url }}{{ site.baseurl }}{{ visual-media.url }}" title="{{ visual-media.title }}"><b>{{ visual-media.title }}</b></a><span style="color: dimgray"> by {{visual-media.creator}}</span></p>
               <div class="center flex-video widescreen vimeo" style="margin-bottom:20px;">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ link.url-code }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
