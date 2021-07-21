@@ -44,7 +44,7 @@ header:
         {% for item in page.drive %}
         {% if item.url-code %}
         <video>
-            <source src="{{ item.url-code }}" type='video/mp4'>
+            <source src="{{ item.url }}" type='video/mp4'>
         </video>
         {% endif %}
         {% endfor %}
@@ -80,6 +80,9 @@ header:
                 {% endif %}
                 {% if page.creator %}
                 <li><strong>Creator:</strong> {{ page.creator }}</li>
+                {% endif %}
+                {% if page.social %}
+                <li><strong>Creator's Social:</strong> {{ page.social }}</li>
                 {% endif %}
                 {% if page.availability %}
                 <li><strong>Availability:</strong> {{ page.availability }}</li>
