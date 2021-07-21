@@ -2,7 +2,7 @@
 layout: visual-media
 title: "Goliath"
 media_type: Animation
-release_date: Premiered June 8 2020
+release_date: June 8 2020
 length: 2'45"
 creator: Angela Song
 social: <a href="https://www.instagram.com/captainokra/?hl=en"><i>@captainokra</i></a>
