@@ -23,6 +23,16 @@ header:
             {{ content }}
         </div>
       
+         <!--Score-->
+        
+        {% for item in page.youtube %}
+        {% if item.url-code %}
+        <div>
+            <iframe src="{{ item.url }}" width="100%" height="200%"></iframe>
+        </div>
+        {% endif %}
+        {% endfor %}
+        
         <!--Video-->
         
         {% for item in page.youtube %}
