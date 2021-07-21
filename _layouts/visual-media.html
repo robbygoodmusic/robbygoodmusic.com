@@ -44,7 +44,7 @@ header:
         {% for item in page.drive %}
         {% if item.url-code %}
         <video>
-            <source src="https://drive.google.com/uc?export=download&id={{ item.url-code }}" type='video/mp4'>
+            <source src="{{ item.url-code }}" type='video/mp4'>
         </video>
         {% endif %}
         {% endfor %}
