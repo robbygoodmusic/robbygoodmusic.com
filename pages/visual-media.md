@@ -1,5 +1,5 @@
 ---
-layout: visual-media
+layout: visual-medias
 sidebar: right
 show_meta: false
 title: "Visual Media"

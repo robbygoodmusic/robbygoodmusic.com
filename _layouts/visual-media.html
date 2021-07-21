@@ -160,5 +160,39 @@ header:
         </div>
         {% endif %}
 
+        <!--Performances-->
+
+        {% for search in site.pages %}
+        {% if search.title == "Performances" %}
+        {% for item in search.performances %}
+        {% if item.performance_title contains page.title %}
+        <div class="panel radius">
+            <h3>Performances</h3>
+            {% break %}
+            {% endif %}
+            {% endfor %}
+            {% for item in search.performances %}
+            {% if item.performance_title contains page.title %}
+            <ul class="no-bullet">
+                <li><strong>{{ item.performance_date }}</strong></li>
+                {% if item.performance_title %}
+                <li>{{ item.performance_title }}</li>
+                {% endif %}
+                {% if item.venue %}
+                <li>{{ item.venue }}</li>
+                {% endif %}
+                {% if item.city_state %}
+                <li>{{ item.city_state }}</li>
+                {% endif %}
+                {% if item.performers %}
+                <li>{{ item.performers }}</li>
+                {% endif %}
+            </ul>
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+        </div>
+
     </div><!-- /.row -->
 </div>
