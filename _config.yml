@@ -278,3 +278,6 @@ collections:
     works:
         output: true
         permalink: /works/:title/
+    works:
+        output: true
+        permalink: /visual-media/:title/
