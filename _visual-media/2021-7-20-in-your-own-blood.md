@@ -9,7 +9,7 @@ social: <a href="https://www.marivelmagsaysay.com"><i>marivelmagsaysay.com</i></
 availability: Public
 score: <a href="https://www.youtube.com/playlist?list=PLEszbnJ3MA5R_xNKoT8RynqcOiCX39J17"><i>Available Here</i></a>
 awards:
-    - award_year: 2021
+    - award_year: April 2021
       award_title: London International Monthly Film Festival - Best Original Score
 youtube:
  - url-code: https://www.youtube.com/watch?v=G3RhaX_baow
