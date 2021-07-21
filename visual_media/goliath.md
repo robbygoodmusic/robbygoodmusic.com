@@ -1,7 +1,7 @@
 ---
 layout: visual-media
 title: "Goliath"
-media_type: Animated Short Film
+media_type: Animation
 release_date: Premiered June 8 2020
 length: 2'45"
 creator: Angela Song - <a href="https://www.instagram.com/captainokra/?hl=en"><i>@captainokra</i></a>
