@@ -8,7 +8,7 @@ duration: 4'15"
 commissioner:
 score_url:
 drive:
- - url: https://drive.google.com/file/d/1BwdrHbJS4RMs9XPARBpkgmnUpY2vD9si/view?usp=sharing
+ - url: https://drive.google.com/file/d/1BwdrHbJS4RMs9XPARBpkgmnUpY2vD9si/preview
 youtube:
  - url-code:
 soundcloud: 
