@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: visual-media
 title: "Goliath"
 media_type: Animated Short Film
 release_date: Premiered June 8 2020
