@@ -36,7 +36,7 @@ header:
         {% for item in page.vimeo %}
         {% if item.url %}
         <div class="center flex-video widescreen vimeo">
-            <iframe src="https://player.vimeo.com/video/{{ item.url-code }}" width="56" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+            <iframe src="https://player.vimeo.com/video/{{ item.url }}" width="56" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
         </div>
         {% endif %}
         {% endfor %}
