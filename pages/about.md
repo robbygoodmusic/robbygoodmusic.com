@@ -40,16 +40,16 @@ header:
     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% for item in site.press %}
                 {% assign not-title = NULL %}
-                {% capture date %}{{item.article_date | date: '%s' | plus: 0 }}{% endcapture %}
+                {% capture date %}{{item.date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date < now %}
 <div class="row">
                     <hr>
   <div class="small-5 columns">
-    <p class="performance-date text-right">{{ item.article_date }}</p>
+    <p class="performance-date text-right">{{ item.date }}</p>
     </div>
   <div class="small-7 columns">
     <ul class="no-bullet">
-                    <li style="font-size:20px;"><a href="{{ item.article_link }}"><b>{{ item.article_title }}</b></a></li>
+                    <li style="font-size:20px;"><a href="{{ item.article_link }}"><b>{{ item.title }}</b></a></li>
                     {% if item.author %}
                     <li style="color:dimgray;">{{ item.author }}</li>
                     {% endif %}
