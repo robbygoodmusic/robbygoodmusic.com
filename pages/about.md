@@ -11,26 +11,6 @@ press:
     article_title: Music students combine compositions, visual components in virtual spring showcase
     article_link: https://dailybruin.com/2021/04/27/music-students-combine-compositions-visual-components-in-virtual-spring-showcase
     author: Daily Bruin - David Egan
-  - article_date: 2021 FEB 17
-    article_title: YouthMundus Artist Spotlight - Robby Good
-    article_link: https://www.innervoiceartists.com/post/robby-good
-    author: Inner Voice Artists - Naomi Segal
-  - article_date: 2017 MAY 5
-    article_title: LA Phil Composer Fellow Robby Good Commissioned to Compose New Work for the National Children's Chorus
-    article_link: https://www.laphil.com/press/releases/1634
-    author: Los Angeles Philharmonic/Hollywood Bowl Press Release
-  - article_date: 2016 JUN 20
-    article_title: Composer Fellowship Program: 10th Anniversary
-    article_link: https://www.youtube.com/watch?v=0kNb3IWh834
-    author: Los Angeles Philharmonic
-  - article_date: 2016 MAR 25
-    article_title: Composing His Voice At 15 Years Old, Robby Good Writes An Original Composition For The LA Philharmonic
-    article_link: https://scvelitemagazine.com/2016/03/composing-voice-15-years-old-robby-good-writes-original-composition-la-philharmonic/
-    author: SCV élite Magazine
-  - article_date: 2014 MAY 14
-    article_title: Placerita Jr. High Student Leads 65-piece Orchestra
-    article_link: https://www.youtube.com/watch?v=jIHh2J0rgQk
-    author: The Santa Clarita Valley Signal
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
