@@ -143,7 +143,7 @@ header:
                             <li><strong>{{ item.performance_date }}</strong></li>
                             {% if item.performance_title %}
                                 {% if item.url %}
-                                    <li><a href="{{ item.url }}">{{ item.performance_title }}</li>
+                                <li><a href="{{ item.url }}">{{ item.performance_title }}</a></li>
                                 {% endif %}
                                 {% if item.url == NULL %}
                                     <li>{{ item.performance_title }}</li>
@@ -161,6 +161,13 @@ header:
                             </ul>
                     {% endif %}
                         </div>
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+        
+        {% for search in site.pages %}
+            {% if search.title == "Important Dates and Events" %}
+                {% for item in search.events %}
                     {% if item.performers contains page.title %}
                         <div class="panel radius">
                             <h3>Important Dates</h3>
@@ -185,9 +192,12 @@ header:
                             {% endif %}
                         </ul>
                     {% endif %}
+                        </div>
                 {% endfor %}
             {% endif %}
         {% endfor %}
+        
+        
         </div>
         
     </div><!-- /.row -->
