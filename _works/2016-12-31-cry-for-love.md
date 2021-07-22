@@ -7,6 +7,7 @@ category_music: Choral
 duration: 4'
 orchestration: SSA choir + pf
 commissioner: National Children's Chorus
+language: English
 score_url:
 drive:
  - url: https://drive.google.com/file/d/1n8L1yn-NtaSCign1Emiqkmjdmeq9oRtq/preview

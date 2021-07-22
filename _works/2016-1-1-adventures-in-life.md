@@ -7,6 +7,7 @@ category_music: Choral
 duration: 4'
 orchestration: SSAATTBB choir
 commissioner: Los Angeles Master Chorale
+language: English
 score_url:
 drive:
  - url: https://drive.google.com/file/d/1EE7GHF-T8xAXh4KAbdoWRACFqHHVUe9V/preview
