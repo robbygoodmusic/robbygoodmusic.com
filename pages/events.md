@@ -3,11 +3,16 @@ layout: default
 title: "Important Dates and Events"
 permalink: "/events/"
 performances:
-  - performance_date: 8 OCT 2021
-    performance_title: California Suite - Premiere
-    venue: Vernon Salon Series
-    city_state: Oakland, CA
-    performers: Sleight Ensemble
+  - performance_date: 2022
+    performance_title: Project: Eden's Garden - Release Date
+    venue:
+    city_state:
+    performers:
+  - performance_date: 3 SEP 2021
+    performance_title: Good - Public Release
+    venue: Streaming TBD
+    city_state:
+    performers:
   - performance_date: 6 JUL 2021
     performance_title: Family Photos
     venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Livestream)
@@ -83,24 +88,24 @@ performances:
     city_state: Los Angeles, California
     performers: Jocelyn Yeh, cello
     url:
-  - performance_date: 31 JAN 2021
-    performance_title: Advertisements - Premiere
-    venue: KC VITAs VOICES OF VITAs (Livestream)
-    city_state: Kansas City, Kansas
-    performers: Patrick Graham, baritone; Aleia Gonzales Gulino, guitar
-    url: https://www.kcvitas.org/
+  - performance_date: 29 JAN 2021
+    performance_title: Project: Eden's Garden - &quot;Old World Revival&quot; Release
+    venue: Official YouTube Channel
+    city_state:
+    performers:
+    url: hhttps://www.youtube.com/watch?v=Zyyc8ujqmD4
   - performance_date: 18 DEC 2020
     performance_title: A Little Consort Music
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: https://www.youtube.com/watch?v=Dz69toVdBuU
-  - performance_date: 12 DEC 2020
-    performance_title: Caprice
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Lavinia Chen, violin; Christopher Ye, cello
-    url:
+  - performance_date: 4 DEC 2020
+    performance_title: Project: Eden's Garden - &quot;Beautiful Creation&quot; Release
+    venue: Official YouTube Channel
+    city_state:
+    performers:
+    url: https://www.youtube.com/watch?v=yCZ4_A2_Z-c
   - performance_date: 27 NOV 2020
     performance_title: A Little Consort Music - European Premiere
     venue: Festival Osmose
@@ -113,12 +118,12 @@ performances:
     city_state: Los Angeles, California
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: 
-  - performance_date: 10 NOV 2020
-    performance_title: Caprice - Premiere
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Lavinia Chen, violin; Christopher Ye, cello
-    url: 
+  - performance_date: 9 NOV 2020
+    performance_title: Project: Eden's Garden - &quot;Warm Body&quot; Release
+    venue: Official YouTube Channel
+    city_state:
+    performers:
+    url: https://www.youtube.com/watch?v=tB4MMDb-Eks
   - performance_date: 29 AUG 2020
     performance_title: Sestina - Premiere
     venue: Curtis Institute of Music Young Artist Summer Program Young Composers Marathon
@@ -156,11 +161,11 @@ performances:
     venue: UCLA
     city_state: Los Angeles, CA
     performers: Christian Gonzales, violin; Austin Ho, piano
-  - performance_date: 1 AUG 2019
-    performance_title: Variations on &quot;This Land is Your Land&quot; - Premiere
-    venue: Montecito Music Festival
+  - performance_date: 8 JUN 2019
+    performance_title: UCLA Animation Extravaganza 2019
+    venue: James Bridges Theater
     city_state: Los Angeles, CA
-    performers: Luiz Paulo Friere, violin; Ji Hyun Ryu, piano
+    performers: Premiere of <i>Goliath</i>
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
