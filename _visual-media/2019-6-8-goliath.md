@@ -1,7 +1,7 @@
 ---
 layout: visual-media
 title: "Goliath"
-media_type: Animation
+media_type: 2D Animation
 release_date: 2019 June 8
 length: 2'45"
 creator: Angela Song

@@ -1,7 +1,7 @@
 ---
 layout: visual-media
 title: "Final Draft"
-media_type: Animation
+media_type: 2D Animation
 release_date: 2020 January 26
 length: 8'
 creator: Rose Yue Huang

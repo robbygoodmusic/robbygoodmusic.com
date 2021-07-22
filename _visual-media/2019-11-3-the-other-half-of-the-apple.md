@@ -1,7 +1,7 @@
 ---
 layout: visual-media
 title: "The Other Half of the Apple"
-media_type: Animation
+media_type: 2D Animation
 release_date: 2019 November 3
 length: 2'45"
 creator: Huamin Wen
