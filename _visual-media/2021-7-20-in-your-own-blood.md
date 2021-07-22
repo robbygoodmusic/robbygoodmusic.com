@@ -12,7 +12,7 @@ awards:
     - award_year: April 2021
       award_title: London International Monthly Film Festival - Best Original Score
 youtube:
- - url-code: https://www.youtube.com/watch?v=G3RhaX_baow
+ - url-code: v=G3RhaX_baow
 soundcloud: 
  - url:
 vimeo:
