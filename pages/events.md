@@ -47,11 +47,11 @@ events:
     performers: The Julius Quartet
     city_state:
     url: https://youtu.be/XrQbO6tm3BU
-  - performance_date: 7 JUN 2021
-    performance_title: Written by Children - Premiere
+  - performance_date: 5 JUN 2021
+    performance_title: UCLA Animation Extravaganza 2021
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
-    performers: Rachel Boehl, horn
+    performers: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i>
   - performance_date: 26 MAY 2021
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: UCLA (Livestream)
