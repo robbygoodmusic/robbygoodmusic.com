@@ -258,6 +258,17 @@ header:
                     {% if not-title == NULL %}
                     <li style="font-size:20px;"><b>{{ item.performance_title }}</b></li>
                     {% endif %}
+        {% for work in site.visual-medias %}
+                    {% if item.performance_title contains work.title %}
+                    {% capture not-title %}
+                    {{ item.performance_title | remove: work.title }}
+                    {% endcapture %}
+                    <li style="font-size:20px;"><b><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</b></li>
+                    {% endif %}
+                    {% endfor %}
+                    {% if not-title == NULL %}
+                    <li style="font-size:20px;"><b>{{ item.performance_title }}</b></li>
+                    {% endif %}
                     {% if item.venue %}
                     <li style="color:dimgray;">{{ item.venue }}</li>
                     {% endif %}

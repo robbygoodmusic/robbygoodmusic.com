@@ -162,7 +162,12 @@ header:
             <ul class="no-bullet">
                 <li><strong>{{ item.performance_date }}</strong></li>
                 {% if item.performance_title %}
+                    {% if item.url %}
+                <li>{{ <a href="{{ item.url }}">item.performance_title</a> }}</li>
+                    {% endif %}
+                {% if item.url == NULL %}
                 <li>{{ item.performance_title }}</li>
+                {% endif %}
                 {% endif %}
                 {% if item.venue %}
                 <li>{{ item.venue }}</li>
