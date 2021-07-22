@@ -157,13 +157,13 @@ performances:
     city_state: Los Angeles, CA
     performers: Yarn/Wire
   - performance_date: 5 NOV 2019
-    performance_title: Variations on &quot;This Land is Your Land&quot;
-    venue: UCLA
+    performance_title: Kessinger
+    venue: UCLA - Schoenberg Hall
     city_state: Los Angeles, CA
-    performers: Christian Gonzales, violin; Austin Ho, piano
+    performers: Robby Good, marimba; Jonathan Schlitt, vibraphone
   - performance_date: 8 JUN 2019
     performance_title: UCLA Animation Extravaganza 2019
-    venue: James Bridges Theater
+    venue: UCLA - James Bridges Theater
     city_state: Los Angeles, CA
     performers: Premiere of <i>Goliath</i>
 header:
