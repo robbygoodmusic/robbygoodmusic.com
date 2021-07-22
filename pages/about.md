@@ -45,7 +45,7 @@ header:
 <div class="row">
                     <hr>
   <div class="small-5 columns">
-    <p class="performance-date text-right">{{ item.date }}</p>
+    <p class="performance-date text-right">{{ item.date | date_to_string }}</p>
     </div>
   <div class="small-7 columns">
     <ul class="no-bullet">
