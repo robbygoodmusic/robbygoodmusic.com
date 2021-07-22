@@ -1,6 +1,6 @@
 ---
 layout: visual-media
-title: "Project: Eden's Garden"
+title: "Project&colon; Eden's Garden"
 media_type: Video Game
 role: Co-Composer
 release_date: TBD 2022
