@@ -11,6 +11,10 @@ press:
     article_title: Music students combine compositions, visual components in virtual spring showcase
     article_link: https://dailybruin.com/2021/04/27/music-students-combine-compositions-visual-components-in-virtual-spring-showcase
     author: Daily Bruin - David Egan
+  - article_date: 2021 FEB 17
+    article_title: YouthMundus Artist Spotlight - Robby Good
+    article_link: https://www.innervoiceartists.com/post/robby-good
+    author: Inner Voice Artists - Naomi Segal
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
