@@ -4,7 +4,7 @@ title: "Important Dates and Events"
 permalink: "/events/"
 performances:
   - performance_date: 2022
-    performance_title: Project: Eden's Garden - Release Date
+    performance_title: Project Eden's Garden - Release Date
     venue:
     city_state:
     performers:
@@ -89,11 +89,11 @@ performances:
     performers: Jocelyn Yeh, cello
     url:
   - performance_date: 29 JAN 2021
-    performance_title: Project: Eden's Garden - &quot;Old World Revival&quot; Release
+    performance_title: Project Eden's Garden - &quot;Old World Revival&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
-    url: hhttps://www.youtube.com/watch?v=Zyyc8ujqmD4
+    url: https://www.youtube.com/watch?v=Zyyc8ujqmD4
   - performance_date: 18 DEC 2020
     performance_title: A Little Consort Music
     venue: UCLA (Livestream)
@@ -101,7 +101,7 @@ performances:
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: https://www.youtube.com/watch?v=Dz69toVdBuU
   - performance_date: 4 DEC 2020
-    performance_title: Project: Eden's Garden - &quot;Beautiful Creation&quot; Release
+    performance_title: Project Eden's Garden - &quot;Beautiful Creation&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
@@ -119,7 +119,7 @@ performances:
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: 
   - performance_date: 9 NOV 2020
-    performance_title: Project: Eden's Garden - &quot;Warm Body&quot; Release
+    performance_title: Project Eden's Garden - &quot;Warm Body&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
