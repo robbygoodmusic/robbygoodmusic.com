@@ -281,3 +281,5 @@ collections:
     visual-media:
         output: true
         permalink: /visual-media/:title/
+    press:
+        output: false
