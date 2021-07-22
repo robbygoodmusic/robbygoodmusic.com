@@ -38,13 +38,13 @@
             <!--Performances-->
 
             <div class="small-6 medium-3 large-3 columns">
-                <h5 class="shadow-black">Upcoming Events</h5>
+                <h5 class="shadow-black">Upcoming Dates/Events</h5>
 
                 <ul class="no-bullet shadow-black">
                     {% for page in site.pages %}
                     {% if page.title == "Important Dates and Events" %}
                     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-                    {% for item in page.performances reversed %}
+                    {% for item in page.events reversed %}
                     {% assign not-title = NULL %}
                     {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                     {% if date > now %}
