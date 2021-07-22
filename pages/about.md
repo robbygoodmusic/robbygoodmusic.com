@@ -7,10 +7,18 @@ press:
     article_title: Conversations with Robby Good
     article_link: http://voyagela.com/interview/conversations-robby-good/?fbclid=IwAR2SyXmAeHqkv0Ub_YI4zXO3P9G7Xv7zeWICPsfziPXcDm9WwXCDUr2nUcE
     author: VoyageLA
+  - article_date: 2021 APR 27
+    article_title: Music students combine compositions, visual components in virtual spring showcase
+    article_link: https://dailybruin.com/2021/04/27/music-students-combine-compositions-visual-components-in-virtual-spring-showcase
+    author: Daily Bruin - David Egan
   - article_date: 2021 FEB 17
-    article_title: Artist Spotlight - Robby Good
+    article_title: YouthMundus Artist Spotlight - Robby Good
     article_link: https://www.innervoiceartists.com/post/robby-good
-    author: Inner Voice Artists - YouthMundus
+    author: Inner Voice Artists - Naomi Segal
+  - article_date: 2017 MAY 5
+    article_title: LA Phil Composer Fellow Robby Good Commissioned to Compose New Work for the National Children's Chorus
+    article_link: https://www.laphil.com/press/releases/1634
+    author: Los Angeles Philharmonic/Hollywood Bowl Press Release
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
