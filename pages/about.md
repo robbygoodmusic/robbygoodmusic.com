@@ -61,6 +61,9 @@ header:
                 <a href="{{ site.url }}{{ site.baseurl }}/works/" class="button expand">All Performative Works ›</a>
             </div>
             <div>
+                <a href="https://www.imdb.com/name/nm11572939/?ref_=nv_sr_srsg_1" class="button expand">Check out my IMDB! ›</a>
+            </div>
+            <div>
             
             <!--Press-->
 
