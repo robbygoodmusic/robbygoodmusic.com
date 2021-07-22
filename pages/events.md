@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Events"
+title: "Important Dates and Events"
 permalink: "/events/"
 performances:
   - performance_date: 8 OCT 2021
