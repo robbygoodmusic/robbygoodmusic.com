@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "DESTINATION: null"
+title: "DESTINATION&colon; null"
 instrumentation: mixed ensemble
 year_composed: 2017
 category_music: Chamber Ensemble

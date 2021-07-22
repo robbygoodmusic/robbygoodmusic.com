@@ -51,7 +51,7 @@ events:
     performance_title: UCLA Animation Extravaganza 2021
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
-    performers: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i>
+    performers: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i> - Screening of </i>The Other Half of the Apple</i>
   - performance_date: 26 MAY 2021
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: UCLA (Livestream)
@@ -141,11 +141,11 @@ events:
     city_state: Los Angeles, CA
     performers: Gwang Hyun Kim, trombone; Hana Kim, piano
     url:
-  - performance_date: 5 MAR 2020
-    performance_title: Marvels of Creatures and Strange Things Existing (excerpts) - Reading
-    venue: UCLA
+  - performance_date: 29 JAN 2020
+    performance_title: Matt Groening Production Fellowship in Animation Showcase
+    venue: UCLA - James Bridges Theater
     city_state: Los Angeles, CA
-    performers: Jihye Chang, piano
+    performers: First Screening of <i>Final Draft</i>
   - performance_date: 25 FEB 2020
     performance_title: Migration Variations - Premiere
     venue: UCLA
@@ -166,6 +166,71 @@ events:
     venue: UCLA - James Bridges Theater
     city_state: Los Angeles, CA
     performers: Premiere of <i>Goliath</i>
+  - performance_date: 7 MAY 2019
+    performance_title: Always in the Music - Premiere at Farewell Concert in Honor of Kathryn Spula
+    venue: Hart Auditorium
+    city_state: Newhall, CA
+    performers: Hart Wind Ensemble + Placerita Junior High Advanced Band
+  - performance_date: 6 MAY 2019
+    performance_title: The Combine
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: TM+ Ensemble
+  - performance_date: 29 NOV 2018
+    performance_title: Sygyzy (A Cosmic Odyssey)
+    venue: Younes and Soraya Nazarian Center for the Performing Arts
+    city_state: Northridge, CA
+    performers: CSUN Wind Ensemble, Dr. Lawrence F. Stoffel conducting
+  - performance_date: 19 MAY 2018
+    performance_title: The Combine - World Premiere
+    venue: Walt Disney Concert Hall - BP Hall
+    city_state: Los Angeles, CA
+    performers: Members of Kaleidoscope Chamber Orchestra
+  - performance_date: 15 MAY 2018
+    performance_title: Syzygy (A Cosmic Odyssey) - World Premiere
+    venue: Hart Auditorium
+    city_state: Newhall, CA
+    performers: Hart Wind Ensemble
+  - performance_date: 27 JAN 2018
+    performance_title: DESTINATION&colon; null - World Premiere
+    venue: Walt Disney Concert Hall - Choral Hall
+    city_state: Los Angeles, CA
+    performers: Laura Arganbright, oboe; Archie Carey, bassoon; Adrianne Pope, viola; Stephen Pfeifer, double bass
+  - performance_date: 10 MAY 2017
+    performance_title: Cry For Love - West Coast Premiere
+    venue: UCLA - Royce Hall
+    city_state: Los Angeles, CA
+    performers: National Children's Chorus Premier Ensemble, Alexander Lloyd Blake conducting
+  - performance_date: 6 MAY 2017
+    performance_title: Cry For Love - World Premiere
+    venue: Carnegie Hall - Zankel Hall
+    city_state: New York City, NY
+    performers: National Children's Chorus Premier Ensemble, Alexander Lloyd Blake conducting
+  - performance_date: 18 MAR 2017
+    performance_title: Adventures in Spontaneity - World Premiere
+    venue: Walt Disney Concert Hall - BP Hall
+    city_state: Los Angeles, CA
+    performers: Calder Quartet
+  - performance_date: 10 MAR 2017
+    performance_title: Inferno - Symphonies for Schools
+    venue: Walt Disney Concert Hall
+    city_state: Los Angeles, CA
+    performers: Los Angeles Philharmonic, Christopher Rountree conducting
+  - performance_date: 9 MAR 2017
+    performance_title: Inferno - Symphonies for Schools
+    venue: Walt Disney Concert Hall
+    city_state: Los Angeles, CA
+    performers: Los Angeles Philharmonic, Christopher Rountree conducting
+  - performance_date: 29 NOV 2016
+    performance_title: A Storm's Passing (Rise and Fall of a New Horizon) - World Premiere
+    venue: Plaza Del Sol Performance Hall
+    city_state: Northridge, CA
+    performers: CSUN Wind Ensemble, Dr. Lawrence F. Stoffel conducting
+  - performance_date: 21 MAY 2016
+    performance_title: Adventures in Life - Reading &amp; Premiere
+    venue: Dorothy Chandler Pavilion
+    city_state: Los Angeles, CA
+    performers: Members of the Los Angeles Master Chorale, Luke McEndarfer conducting
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
