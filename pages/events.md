@@ -233,7 +233,7 @@ header:
 
 
 <div class="text-center t30">
-					<h1 class="h1">Recent Events</h1>
+					<h1 class="h1">Events</h1>
 				</div>
     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% for item in page.events %}
@@ -255,9 +255,6 @@ header:
                     <li style="font-size:20px;"><b><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</b></li>
                     {% endif %}
                     {% endfor %}
-                    {% if not-title == NULL %}
-                    <li style="font-size:20px;"><b>{{ item.performance_title }}</b></li>
-                    {% endif %}
         {% for work in site.visual-media %}
                     {% if item.performance_title contains work.title %}
                     {% capture not-title %}
