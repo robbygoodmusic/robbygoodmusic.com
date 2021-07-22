@@ -35,29 +35,29 @@ header:
 
 
 <div class="text-center t30">
-					<h1 class="h1">Press</h1>
-				</div>
-    {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-                {% for item in site.press reversed %}
-                {% assign not-title = NULL %}
-                {% capture date %}{{item.date | date: '%s' | plus: 0 }}{% endcapture %}
-                {% if date < now %}
-<div class="row">
-                    <hr>
-  <div class="small-5 columns">
-    <p class="performance-date text-right">{{ item.date | date_to_string }}</p>
-    </div>
-  <div class="small-7 columns">
-    <ul class="no-bullet">
-                    <li style="font-size:20px;"><a href="{{ item.article_link }}"><b>{{ item.title }}</b></a></li>
+    <h1 class="h1">Press</h1>
+</div>
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+{% for item in site.press reversed %}
+    {% assign not-title = NULL %}
+    {% capture date %}{{item.date | date: '%s' | plus: 0 }}{% endcapture %}
+    {% if date < now %}
+        <div class="row">
+            <hr>
+            <div class="small-5 columns">
+                <p class="performance-date text-right">{{ item.date | date_to_string }}</p>
+            </div>
+            <div class="small-7 columns">
+                <ul class="no-bullet">
+                    <li style="font-size:20px;"><a href="{{ item.link }}"><b>{{ item.title }}</b></a></li>
                     {% if item.author %}
-                    <li style="color:dimgray;">{{ item.author }}</li>
+                        <li style="color:dimgray;">{{ item.author }}</li>
                     {% endif %}
-      </ul>
-      </div>
-    </div>
+                </ul>
+            </div>
+        </div>
       {% endif %}
-                {% endfor %}
+    {% endfor %}
 
 
 </div> <!-- /.row -->
