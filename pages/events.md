@@ -13,149 +13,34 @@ events:
     venue: Streaming TBD
     city_state:
     performers:
-  - performance_date: 6 JUL 2021
-    performance_title: Family Photos
-    venue: Salastina Happy Hour No. 62, Sounds Promising World Premieres (Livestream)
-    performers: Salastina
-    url: https://www.salastina.org/concerts/2021/7/6/happy-hour-63-sounds-promising-world-premieres-part-deux
-  - performance_date: 19 JUN 2021
-    performance_title: From the Heart to the Heart - Premiere
-    venue: Fresh Inc Festival (Livestream)
-    performers: Nelson Mendoza, violin; Samantha Peng, viola; Raphael Marnon, cello; Pei-yeh Tsai, piano
-    url: https://youtu.be/awXy2ANgZ04
-  - performance_date: 15 JUN 2021
-    performance_title: Lotf Nemīkhâm
-    venue: Suoni Per Il Popolo
-    city_state: Deterritorializing the Realm of New Music (Livestream)
-    performers: Anoush Moazzeni, speaking pianist
-    url: https://suoniperilpopolo.org/en/program/anoush-moazzeni
-  - performance_date: 12 JUN 2021
-    performance_title: Ideal Conversation
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Julia Johnson, voice; Valerie Stern, piano
-    url: https://schoolofmusic.ucla.edu/event/end-of-quarter-showcase-spring-2021/
-  - performance_date: 12 JUN 2021
-    performance_title: Advertisements (excerpts)
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Kian Ravaei, voice and guitar; Justin Birchell, baritone; Joseph Seyedan, guitar
-    url: https://schoolofmusic.ucla.edu/event/end-of-quarter-showcase-spring-2021/
-  - performance_date: 10 JUN 2021
-    performance_title: Family Photos - Premiere
-    venue: EMERGE&#58; Solstice Virtual Concert (Livestream)
-    performers: The Julius Quartet
-    city_state:
-    url: https://youtu.be/XrQbO6tm3BU
   - performance_date: 5 JUN 2021
     performance_title: UCLA Animation Extravaganza 2021
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     film: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i>, Screening of </i>The Other Half of the Apple</i>
-  - performance_date: 26 MAY 2021
-    performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Kennethe Glendon Brown, piano
-    url: https://schoolofmusic.ucla.edu/event/the-inaugural-selma-moidel-smith-recital/?mc_cid=c4f757510c&mc_eid=5fdf70357e
-  - performance_date: 27 APR 2021
-    performance_title: Ideal Conversation
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Julia Johnson, voice; Valerie Stern, piano
-    url:
-  - performance_date: 27 APR 2021
-    performance_title: Advertisements (excerpts)
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Kian Ravaei, voice and guitar; Justin Birchell, baritone; Joseph Seyedan, guitar
-    url:
-  - performance_date: 19 MAR 2021
-    performance_title: Prisoners of Hope
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Jocelyn Yeh, cello
-    url:
-  - performance_date: 6 MAR 2021
-    performance_title: Prelude and Fugue in C-Sharp - Premiere
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Stefano Greco, piano
-    url:
-  - performance_date: 16 FEB 2021
-    performance_title: Prisoners of Hope - Premiere
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Jocelyn Yeh, cello
-    url:
   - performance_date: 29 JAN 2021
     performance_title: Project&colon; Eden's Garden - &quot;Old World Revival&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
     url: https://www.youtube.com/watch?v=Zyyc8ujqmD4
-  - performance_date: 18 DEC 2020
-    performance_title: A Little Consort Music
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
-    url: https://www.youtube.com/watch?v=Dz69toVdBuU
   - performance_date: 4 DEC 2020
     performance_title: Project&colon; Eden's Garden - &quot;Beautiful Creation&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
-    url: https://www.youtube.com/watch?v=yCZ4_A2_Z-c
-  - performance_date: 27 NOV 2020
-    performance_title: A Little Consort Music - European Premiere
-    venue: Festival Osmose
-    city_state: Espace Toots, Belgium
-    performers: Alexandre Debrus, Bruno Ispiola, Johannes Burghoff; cello
-    url:
-  - performance_date: 10 NOV 2020
-    performance_title: A Little Consort Music - Premiere
-    venue: UCLA (Livestream)
-    city_state: Los Angeles, California
-    performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
-    url: 
+    url: https://www.youtube.com/watch?v=yCZ4_A2_Z-c 
   - performance_date: 9 NOV 2020
     performance_title: Project&colon; Eden's Garden - &quot;Warm Body&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
     url: https://www.youtube.com/watch?v=tB4MMDb-Eks
-  - performance_date: 29 AUG 2020
-    performance_title: Sestina - Premiere
-    venue: Curtis Institute of Music Young Artist Summer Program Young Composers Marathon
-    performers: Paul Demers, bass clarinet
-    url:
-  - performance_date: 25 JUL 2020
-    performance_title: Ideal Conversation - Premiere
-    venue: N.E.O. Voice Festival (Livestream)
-    city_state: Los Angeles, California
-    performers: Tiffany-Alaine Solinap Militante, voice; Abraham Ross, piano
-    url: https://voicescienceworks.ticketspice.com/neo-voice-festival-weekend-2020
-  - performance_date: 6 MAR 2020
-    performance_title: Duo for Trombone and Piano - Premiere
-    venue: UCLA
-    city_state: Los Angeles, CA
-    performers: Gwang Hyun Kim, trombone; Hana Kim, piano
-    url:
   - performance_date: 29 JAN 2020
     performance_title: Matt Groening Production Fellowship in Animation Showcase
     venue: UCLA - James Bridges Theater
     city_state: Los Angeles, CA
     film: First Screening of <i>Final Draft</i>
-  - performance_date: 25 FEB 2020
-    performance_title: Migration Variations - Premiere
-    venue: UCLA
-    city_state: Los Angeles, CA
-    performers: Veola Sun, piano 1; Brandon Zhou, piano 2; Robby Good, perc. 1; Cash Langi, perc. 2
-  - performance_date: 23 NOV 2019
-    performance_title: Migration Variations - Reading
-    venue: UCLA
-    city_state: Los Angeles, CA
-    performers: Yarn/Wire
   - performance_date: 5 NOV 2019
     performance_title: Kessinger
     venue: UCLA - Schoenberg Hall
@@ -176,6 +61,11 @@ events:
     venue: UCLA - Schoenberg Hall
     city_state: Los Angeles, CA
     performers: TM+ Ensemble
+  - performance_date: 4 MAR 2019
+    performance_title: glass moonlight - World Premiere
+    venue: UCLA - Ostin Recording Studio
+    city_state: Los Angeles, CA
+    performers: Winsor Music
   - performance_date: 29 NOV 2018
     performance_title: Syzygy (A Cosmic Odyssey)
     venue: Younes and Soraya Nazarian Center for the Performing Arts
@@ -226,6 +116,16 @@ events:
     venue: Plaza Del Sol Performance Hall
     city_state: Northridge, CA
     performers: CSUN Wind Ensemble, Dr. Lawrence F. Stoffel conducting
+  - performance_date: 2 OCT 2016
+    performance_title: Adventures in Light - World Premiere
+    venue: REDCAT
+    city_state: Los Angeles, CA
+    performers: Los Angeles Percussion Quartet
+  - performance_date: 12 JUN 2016
+    performance_title: Primal Pedals - World Premiere at Ojai Music Festival
+    venue: Libbey Bowl
+    city_state: Ojai, CA
+    performers: Alice Teyssier (International Contemporary Ensemble)
   - performance_date: 21 MAY 2016
     performance_title: Adventures in Life - Reading &amp; Premiere
     venue: Dorothy Chandler Pavilion
