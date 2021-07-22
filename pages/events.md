@@ -183,7 +183,7 @@ header:
 				</div>
                 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% assign i = 0 %}
-                {% for item in page.performances %}
+                {% for item in page.events %}
                 {% assign not-title = NULL %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date > now %}
@@ -236,7 +236,7 @@ header:
 					<h1 class="h1">Recent Events</h1>
 				</div>
     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-                {% for item in page.performances %}
+                {% for item in page.events %}
                 {% assign not-title = NULL %}
                 {% capture date %}{{item.performance_date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date < now %}
