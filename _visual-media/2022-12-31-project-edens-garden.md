@@ -20,6 +20,5 @@ drive:
 
 <span class="teaser">16 talented participants enter the game. Only 2 will walk out alive. Don't let history repeat itself. Break the cycle.
 
-_Project: Eden's Garden_ will be a Free-To-Play video game inspired by the popular visual novel series known as Danganronpa. While this game will be heavily influenced by the property, it will be an original story with diverse characters and gameplay experiences.
-</span>
+_Project: Eden's Garden_ will be a Free-To-Play video game inspired by the popular visual novel series known as Danganronpa. While this game will be heavily influenced by the property, it will be an original story with diverse characters and gameplay experiences.</span>
 <cite>Description of <a href="https://www.youtube.com/watch?v=GVpepDKH9kk"><i>Project: Eden's Garden - Announcement Trailer</i></a></cite>
