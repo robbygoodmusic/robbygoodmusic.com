@@ -19,6 +19,10 @@ press:
     article_title: LA Phil Composer Fellow Robby Good Commissioned to Compose New Work for the National Children's Chorus
     article_link: https://www.laphil.com/press/releases/1634
     author: Los Angeles Philharmonic/Hollywood Bowl Press Release
+  - article_date: 2017 FEB 19
+    article_title: What’s it like to hear the L.A. Phil play your music in Disney Hall? Ask these composers, ages 16 to 18
+    article_link: https://www.latimes.com/entertainment/arts/la-et-cm-young-composers-la-phil-20170219-story.html
+    author: Los Angeles Times - Jessica Gelt
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
