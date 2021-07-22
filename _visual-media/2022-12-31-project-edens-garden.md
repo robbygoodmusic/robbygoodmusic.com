@@ -22,4 +22,4 @@ drive:
 
 _Project: Eden's Garden_ will be a Free-To-Play video game inspired by the popular visual novel series known as Danganronpa. While this game will be heavily influenced by the property, it will be an original story with diverse characters and gameplay experiences.
 </span>
-<cite>Description of <a href="https://www.youtube.com/watch?v=GVpepDKH9kk"><i>Project: Eden's Garden 「模倣」- Announcement Trailer</i></a></cite>
+<cite>Description of <a href="https://www.youtube.com/watch?v=GVpepDKH9kk"><i>Project: Eden's Garden - Announcement Trailer</i></a></cite>
