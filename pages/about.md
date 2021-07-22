@@ -23,6 +23,10 @@ press:
     article_title: What’s it like to hear the L.A. Phil play your music in Disney Hall? Ask these composers, ages 16 to 18
     article_link: https://www.latimes.com/entertainment/arts/la-et-cm-young-composers-la-phil-20170219-story.html
     author: Los Angeles Times - Jessica Gelt
+  - article_date: 2016 JUN 20
+    article_title: Composer Fellowship Program: 10th Anniversary
+    article_link: https://www.youtube.com/watch?v=0kNb3IWh834
+    author: Los Angeles Philharmonic
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
