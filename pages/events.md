@@ -177,7 +177,7 @@ events:
     city_state: Los Angeles, CA
     performers: TM+ Ensemble
   - performance_date: 29 NOV 2018
-    performance_title: Sygyzy (A Cosmic Odyssey)
+    performance_title: Syzygy (A Cosmic Odyssey)
     venue: Younes and Soraya Nazarian Center for the Performing Arts
     city_state: Northridge, CA
     performers: CSUN Wind Ensemble, Dr. Lawrence F. Stoffel conducting
