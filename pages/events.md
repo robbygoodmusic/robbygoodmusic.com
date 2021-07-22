@@ -13,17 +13,37 @@ events:
     venue: Streaming TBD
     city_state:
     performers:
+  - performance_date: 12 JUN 2021
+    performance_title: Upstream - UCLA End of Quarter Showcase
+    venue: UCLA (Livestream)
+    city_state: Los Angeles, CA
+    performers:
+  - performance_date: 12 JUN 2021
+    performance_title: Saxophone Quartet (I&colon; Twisted Steps) - UCLA End of Quarter Showcase
+    venue: UCLA (Livestream)
+    city_state: Los Angeles, CA
+    performers: Alex Lee, soprano sax; Joshua Park, alto sax; O'Connor Langi, tenor sax; Emma Mooradian, baritone sax
   - performance_date: 5 JUN 2021
     performance_title: UCLA Animation Extravaganza 2021
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     film: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i>, Screening of </i>The Other Half of the Apple</i>
+  - performance_date: 19 MAR 2021
+    performance_title: The Other Half of the Apple - UCLA End of Quarter Showcase
+    venue: UCLA (Livestream)
+    city_state: Los Angeles, CA
+    performers:
   - performance_date: 29 JAN 2021
     performance_title: Project&colon; Eden's Garden - &quot;Old World Revival&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
     url: https://www.youtube.com/watch?v=Zyyc8ujqmD4
+  - performance_date: 18 DEC 2020
+    performance_title: Upstream (Score) - UCLA Composers Showcase
+    venue: UCLA (Livestream)
+    city_state: Los Angeles, CA
+    performers:
   - performance_date: 4 DEC 2020
     performance_title: Project&colon; Eden's Garden - &quot;Beautiful Creation&quot;
     venue: Official YouTube Channel
@@ -36,13 +56,18 @@ events:
     city_state:
     performers:
     url: https://www.youtube.com/watch?v=tB4MMDb-Eks
+  - performance_date: 25 FEB 2020
+    performance_title: Encroach - UCLA Composers Showcase
+    venue: UCLA - Lani Hall
+    city_state: Los Angeles, CA
+    performers: Angie Zheng, viola
   - performance_date: 29 JAN 2020
     performance_title: Matt Groening Production Fellowship in Animation Showcase
     venue: UCLA - James Bridges Theater
     city_state: Los Angeles, CA
     film: First Screening of <i>Final Draft</i>
   - performance_date: 5 NOV 2019
-    performance_title: Kessinger
+    performance_title: Kessinger - UCLA Composers Showcase
     venue: UCLA - Schoenberg Hall
     city_state: Los Angeles, CA
     performers: Robby Good, marimba; Jonathan Schlitt, vibraphone
@@ -65,7 +90,11 @@ events:
     performance_title: glass moonlight - World Premiere
     venue: UCLA - Ostin Recording Studio
     city_state: Los Angeles, CA
-    performers: Winsor Music
+  - performance_date: 12 FEB 2019
+    performance_title: Insomniac - UCLA Composers Showcase
+    venue: UCLA - Jan Popper Theater
+    city_state: Los Angeles, CA
+    performers: Stanley Cascone, marimba 1; Robby Good, marimba 2
   - performance_date: 29 NOV 2018
     performance_title: Syzygy (A Cosmic Odyssey)
     venue: Younes and Soraya Nazarian Center for the Performing Arts
