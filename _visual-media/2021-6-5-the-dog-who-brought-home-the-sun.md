@@ -2,6 +2,7 @@
 layout: visual-media
 title: "The Dog Who Brought Home The Sun"
 media_type: 2D Animation
+role: Composer
 release_date: 2021 June 5
 length: 4'
 creator: Stacy Li

@@ -2,6 +2,7 @@
 layout: visual-media
 title: "Upstream"
 media_type: 2D Animation
+role: Composer
 release_date: 2021 June 5
 length: 5'
 creator: Kimberly Acosta

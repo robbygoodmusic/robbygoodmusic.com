@@ -2,6 +2,7 @@
 layout: visual-media
 title: "In Your Own Blood"
 media_type: Short Film
+role: Composer
 release_date: 2021 July 20
 length: 10'
 creator: Marivel Magsaysay
@@ -12,7 +13,7 @@ awards:
     - award_year: April 2021
       award_title: London International Monthly Film Festival - Best Original Score
 youtube:
- - url-code: v=G3RhaX_baow
+ - url-code: G3RhaX_baow
 soundcloud: 
  - url:
 vimeo:
