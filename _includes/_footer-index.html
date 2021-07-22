@@ -42,7 +42,7 @@
 
                 <ul class="no-bullet shadow-black">
                     {% for page in site.pages %}
-                    {% if page.title == "Events" %}
+                    {% if page.title == "Important Dates and Events" %}
                     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                     {% for item in page.performances reversed %}
                     {% assign not-title = NULL %}
