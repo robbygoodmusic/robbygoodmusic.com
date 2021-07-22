@@ -258,7 +258,7 @@ header:
                     {% if not-title == NULL %}
                     <li style="font-size:20px;"><b>{{ item.performance_title }}</b></li>
                     {% endif %}
-        {% for work in site.visual-medias %}
+        {% for work in site.visual-media %}
                     {% if item.performance_title contains work.title %}
                     {% capture not-title %}
                     {{ item.performance_title | remove: work.title }}
