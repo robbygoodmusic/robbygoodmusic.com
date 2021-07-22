@@ -15,6 +15,10 @@ press:
     article_title: YouthMundus Artist Spotlight - Robby Good
     article_link: https://www.innervoiceartists.com/post/robby-good
     author: Inner Voice Artists - Naomi Segal
+  - article_date: 2017 MAY 5
+    article_title: LA Phil Composer Fellow Robby Good Commissioned to Compose New Work for the National Children's Chorus
+    article_link: https://www.laphil.com/press/releases/1634
+    author: Los Angeles Philharmonic/Hollywood Bowl Press Release
 header:
     image_fullwidth_staff: Kian_Header_idea_9.png
 ---
