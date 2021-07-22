@@ -71,6 +71,11 @@ events:
     venue: Younes and Soraya Nazarian Center for the Performing Arts
     city_state: Northridge, CA
     performers: CSUN Wind Ensemble, Dr. Lawrence F. Stoffel conducting
+  - performance_date: 6 NOV 2018
+    performance_title: Bounce Back to Back - UCLA Composers Showcase
+    venue: UCLA - Jan Popper Theater
+    city_state: Los Angeles, CA
+    performers: Christian Gonzales, violin; Joseph Kim, cello    
   - performance_date: 19 MAY 2018
     performance_title: The Combine - World Premiere
     venue: Walt Disney Concert Hall - BP Hall
