@@ -30,7 +30,7 @@ press:
   - article_date: 2016 MAR 25
     article_title: Composing His Voice At 15 Years Old, Robby Good Writes An Original Composition For The LA Philharmonic
     article_link: https://scvelitemagazine.com/2016/03/composing-voice-15-years-old-robby-good-writes-original-composition-la-philharmonic/
-    author: SCV élite Magazine
+    author: SCV elite Magazine
   - article_date: 2014 MAY 14
     article_title: Placerita Jr. High Student Leads 65-piece Orchestra
     article_link: https://www.youtube.com/watch?v=jIHh2J0rgQk
