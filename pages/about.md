@@ -38,7 +38,7 @@ header:
 					<h1 class="h1">Press</h1>
 				</div>
     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
-                {% for item in site.press %}
+                {% for item in site.press reverse %}
                 {% assign not-title = NULL %}
                 {% capture date %}{{item.date | date: '%s' | plus: 0 }}{% endcapture %}
                 {% if date < now %}
