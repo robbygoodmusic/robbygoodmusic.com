@@ -2,7 +2,7 @@
 layout: default
 title: "Important Dates and Events"
 permalink: "/events/"
-performances:
+events:
   - performance_date: 2022
     performance_title: Project Eden's Garden - Release Date
     venue:
