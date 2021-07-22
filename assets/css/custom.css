@@ -581,7 +581,7 @@ body {
 }
 
 slapform.submit({
-  account: 'kianravaei@ucla.edu', // Replace this with the email that submissions should be sent to
+  account: 'robbygoodmusic@gmail.com', // Replace this with the email that submissions should be sent to
   data: { // The data you want submitted and emailed to you
     name: 'Jon Snow',
     message: 'Hello World!'
