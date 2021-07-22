@@ -223,6 +223,9 @@ header:
                     {% if item.performers %}
                     <li style="color:dimgray;">{{ item.performers }}</li>
                     {% endif %}
+                    {% if item.film %}
+                    <li style="color:dimgray;">{{ item.film }}</li>
+                    {% endif %}
                     {% if item.url %}
                     <li style="margin-top:10px;"><a class="button tiny round" href="{{ item.url }}" target="_blank" style="margin-bottom:0px;">More Information ›</a></li>
                     {% endif %}
@@ -281,6 +284,9 @@ header:
                     {% endif %}
                     {% if item.performers %}
                     <li style="color:dimgray;">{{ item.performers }}</li>
+                    {% endif %}
+                    {% if item.film %}
+                    <li style="color:dimgray;">{{ item.film }}</li>
                     {% endif %}
       </ul>
       </div>
