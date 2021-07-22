@@ -51,7 +51,7 @@ events:
     performance_title: UCLA Animation Extravaganza 2021
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
-    performers: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i> - Screening of </i>The Other Half of the Apple</i>
+    film: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i>, Screening of </i>The Other Half of the Apple</i>
   - performance_date: 26 MAY 2021
     performance_title: Marvels of Creatures and Strange Things Existing (excerpt)
     venue: UCLA (Livestream)
@@ -145,7 +145,7 @@ events:
     performance_title: Matt Groening Production Fellowship in Animation Showcase
     venue: UCLA - James Bridges Theater
     city_state: Los Angeles, CA
-    performers: First Screening of <i>Final Draft</i>
+    film: First Screening of <i>Final Draft</i>
   - performance_date: 25 FEB 2020
     performance_title: Migration Variations - Premiere
     venue: UCLA
@@ -165,7 +165,7 @@ events:
     performance_title: UCLA Animation Extravaganza 2019
     venue: UCLA - James Bridges Theater
     city_state: Los Angeles, CA
-    performers: Premiere of <i>Goliath</i>
+    film: Premiere of <i>Goliath</i>
   - performance_date: 7 MAY 2019
     performance_title: Always in the Music - Premiere at Farewell Concert in Honor of Kathryn Spula
     venue: Hart Auditorium
