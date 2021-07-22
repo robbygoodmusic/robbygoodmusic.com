@@ -33,6 +33,14 @@ header:
         {% endif %}
         {% endfor %}
         
+        {% for item in page.drive2 %}
+        {% if item.url %}
+        <div>
+            <iframe src="{{ item.url }}" width="640" height="640" allow="autoplay"></iframe>
+        </div>
+        {% endif %}
+        {% endfor %}
+        
         <!--Video-->
         
         {% for item in page.youtube %}

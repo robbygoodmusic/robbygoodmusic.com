@@ -5,11 +5,12 @@ instrumentation: wind ensemble + solo voice
 year_composed: 2018
 category_music: Wind Ensemble/Orchestra
 duration: 6'45"
-commissioner:
+orchestration: vox - 2.1.3.1 - 2ax.1tx.1bx - 2.3.3.euph.1 - timp.perc(4) - pf - db
+commissioner: William S. Hart High School + Placerita Junior High School
 score_url:
 drive:
  - url: https://drive.google.com/file/d/15yEonQIPNYffQ21P7OI2mWQF_EARRgpw/preview
-drive:
+drive2:
  - url: https://drive.google.com/file/d/1oggkrZH1o4-DtJV98aRk_pfWFpIYims-/preview
 youtube:
  - url-code:
