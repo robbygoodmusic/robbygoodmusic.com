@@ -179,7 +179,7 @@ header:
 <!--Upcoming performances-->
 
 <div class="text-center">
-					<h1 class="h">Upcoming Events</h1>
+					<h1 class="h">Upcoming Dates/Events</h1>
 				</div>
                 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% assign i = 0 %}
@@ -241,7 +241,7 @@ header:
 
 
 <div class="text-center t30">
-					<h1 class="h1">Events</h1>
+					<h1 class="h1">Important Dates/Events</h1>
 				</div>
     {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
                 {% for item in page.events %}
