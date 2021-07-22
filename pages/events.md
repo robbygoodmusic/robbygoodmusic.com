@@ -4,7 +4,7 @@ title: "Important Dates and Events"
 permalink: "/events/"
 events:
   - performance_date: 2022
-    performance_title: Project Eden's Garden - Release Date
+    performance_title: Project&colon; Eden's Garden - Release Date
     venue:
     city_state:
     performers:
@@ -89,7 +89,7 @@ events:
     performers: Jocelyn Yeh, cello
     url:
   - performance_date: 29 JAN 2021
-    performance_title: Project Eden's Garden - &quot;Old World Revival&quot;
+    performance_title: Project&colon; Eden's Garden - &quot;Old World Revival&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
@@ -101,7 +101,7 @@ events:
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: https://www.youtube.com/watch?v=Dz69toVdBuU
   - performance_date: 4 DEC 2020
-    performance_title: Project Eden's Garden - &quot;Beautiful Creation&quot;
+    performance_title: Project&colon; Eden's Garden - &quot;Beautiful Creation&quot;
     venue: Official YouTube Channel
     city_state:
     performers:
@@ -119,7 +119,7 @@ events:
     performers: Calvin Kung, Jocelyn Yeh, Peter Walsh; cello
     url: 
   - performance_date: 9 NOV 2020
-    performance_title: Project Eden's Garden - &quot;Warm Body&quot;
+    performance_title: Project&colon; Eden's Garden - &quot;Warm Body&quot;
     venue: Official YouTube Channel
     city_state:
     performers:

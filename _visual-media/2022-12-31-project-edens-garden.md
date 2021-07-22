@@ -5,7 +5,7 @@ media_type: Video Game
 role: Co-Composer
 release_date: TBD 2022
 length:
-creator: Team Eden's Garden
+creator: Team&colon; Eden's Garden
 social: <a href="https://twitter.com/ProjEdensGarden"><i>@ProjEdensGarden</i></a>
 availability: In development
 score: <a href="https://www.youtube.com/playlist?list=PLshz7DdqGAcGh6SQwGSS9gHm-xG5ynXkm"><i>Available Here</i></a>
