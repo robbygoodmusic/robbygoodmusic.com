@@ -134,15 +134,15 @@ header:
                     {% if item.performance_title contains page.title %}
                         <div class="panel radius">
                             <h3>Important Dates</h3>
-                        {% break %}
-                    {% endif %}
-                {% endfor %}
-                {% for item in search.events %}
-                    {% if item.performance_title contains page.title %}
                             <ul class="no-bullet">
                             <li><strong>{{ item.performance_date }}</strong></li>
                             {% if item.performance_title %}
-                                <li>{{ item.performance_title }}</li>
+                                {% if item.url %}
+                                    <li>{{ <a href="{{ item.url }}">item.performance_title</a> }}</li>
+                                {% endif %}
+                                {% if item.url == NULL %}
+                                    <li>{{ item.performance_title }}</li>
+                                {% endif %}
                             {% endif %}
                             {% if item.venue %}
                                 <li>{{ item.venue }}</li>
