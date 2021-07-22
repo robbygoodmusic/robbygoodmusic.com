@@ -158,25 +158,7 @@ header:
                             {% if item.performers %}
                                 <li>{{ item.performers }}</li>
                             {% endif %}
-                            </ul>
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
-        {% endfor %}
-        </div>
-        
-        {% for search in site.pages %}
-            {% if search.title == "Important Dates and Events" %}
-                {% for item in search.events %}
-                    {% if item.performance_title != page.title %}
-                        <div class="panel radius">
-                            <h3>Important Dates</h3>
-                            {% break %}
-                    {% endif %}
-                {% endfor %}
-                    {% for item in search.events %}
-                    {% if item.film contains page.title %}
-                        <ul class="no-bullet">
+                                {% if item.film contains page.title %}
                             <li><strong>{{ item.performance_date }}</strong></li>
                             {% if item.performance_title %}
                                 {% if item.url %}
@@ -195,7 +177,7 @@ header:
                             {% if item.film %}
                                 <li>{{ item.film }}</li>
                             {% endif %}
-                        </ul>
+                        </ul>    
                     {% endif %}
                 {% endfor %}
             {% endif %}
