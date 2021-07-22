@@ -77,7 +77,7 @@ events:
     city_state: Los Angeles, CA
     film: Premiere of <i>Goliath</i>
   - performance_date: 7 MAY 2019
-    performance_title: Always in the Music - Premiere at Farewell Concert in Honor of Kathryn Spula
+    performance_title: Always In The Music - Premiere at Farewell Concert in Honor of Kathryn Spula
     venue: Hart Auditorium
     city_state: Newhall, CA
     performers: Hart Wind Ensemble + Placerita Junior High Advanced Band
