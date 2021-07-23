@@ -161,7 +161,7 @@ header:
                             </ul>
                         {% endif %}
                         {% if item.film contains page.title %}
-                            {% if item.performance_title != page.title %}
+                        {% if item.performance_title !contains page.title %}
                         <div class="panel radius">
                             <h3>Important Dates</h3>
                         {% break %}
