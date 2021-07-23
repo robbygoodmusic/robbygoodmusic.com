@@ -72,7 +72,7 @@ header:
                   <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media">All Works</a></strong></li>
                   {% endif %}
                 {% for category in sorted_post %}
-                    <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ media_type }}</a></strong></li>
+                    <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ category }}</a></strong></li>
                 {% endfor %}
                 </ul>
             </div>
