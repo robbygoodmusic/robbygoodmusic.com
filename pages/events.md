@@ -28,6 +28,12 @@ events:
     venue: UCLA (Livestream)
     city_state: Los Angeles, California
     film: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i>, Screening of <i>The Other Half of the Apple</i>
+  - performance_date: 23 MAY 2021
+    performance_title: UCLA Junior Percussion Recital
+    venue: UCLA (Livestream)
+    city_state: Los Angeles, CA
+    performers:
+    url: https://www.youtube.com/watch?v=6AsfCa2BXi0
   - performance_date: 19 MAR 2021
     performance_title: The Other Half of the Apple - UCLA End of Quarter Showcase
     venue: UCLA (Livestream)
