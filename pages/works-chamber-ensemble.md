@@ -2,9 +2,9 @@
 layout: works
 sidebar: right
 show_meta: false
-title: "Works"
+title: "Playable Works"
 subheadline: Chamber Ensemble
-description: Interactive list of Chamber Ensemble works by Robby Good.
+description: Interactive list of chamber works by Robby Good.
 permalink: "/works-chamber-ensemble/"
 ---
 

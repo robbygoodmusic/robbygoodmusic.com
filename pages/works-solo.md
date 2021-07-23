@@ -2,7 +2,7 @@
 layout: works
 sidebar: right
 show_meta: false
-title: "Works"
+title: "Playable Works"
 subheadline: Solo
 description: Interactive list of solo works by Robby Good.
 permalink: "/works-solo/"

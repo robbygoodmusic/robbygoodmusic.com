@@ -2,7 +2,7 @@
 layout: works
 sidebar: right
 show_meta: false
-title: "Works"
+title: "Playable Works"
 subheadline: Choral
 description: Interactive list of choral works by Robby Good.
 permalink: "/works-choral/"
