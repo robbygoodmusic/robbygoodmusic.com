@@ -29,7 +29,7 @@ events:
     city_state: Los Angeles, California
     film: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i>, Screening of <i>The Other Half of the Apple</i>
   - performance_date: 23 MAY 2021
-    performance_title: Robby Good's Junior Percussion Recital
+    performance_title: Junior Percussion Recital
     venue: UCLA (Livestream)
     city_state: Los Angeles, CA
     performers:
@@ -96,6 +96,7 @@ events:
     performance_title: glass moonlight - World Premiere
     venue: UCLA - Ostin Recording Studio
     city_state: Los Angeles, CA
+    performers: Winsor Music
   - performance_date: 12 FEB 2019
     performance_title: Insomniac - UCLA Composers Showcase
     venue: UCLA - Jan Popper Theater
