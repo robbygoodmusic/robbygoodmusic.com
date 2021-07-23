@@ -2,6 +2,7 @@
 layout: visual-media
 title: "Final Draft"
 media_type: 2D Animation
+genre: Horror/Thriller
 role: Composer &amp; Sound Design
 release_date: 2020 January 26
 length: 8'

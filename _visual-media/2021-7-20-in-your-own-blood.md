@@ -2,6 +2,7 @@
 layout: visual-media
 title: "In Your Own Blood"
 media_type: Short Film
+genre: Horror/Thriller
 role: Composer
 release_date: 2021 July 20
 length: 10'

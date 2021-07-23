@@ -2,6 +2,7 @@
 layout: visual-media
 title: "Bane of the Beasts"
 media_type: 3D Animation
+genre: Children
 role: Composer
 release_date: 2021 June 5
 length: 5'

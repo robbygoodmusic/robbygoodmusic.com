@@ -2,6 +2,7 @@
 layout: visual-media
 title: "Project&colon; Eden's Garden"
 media_type: Video Game
+genre: Mystery
 role: Co-Composer
 release_date: TBD 2022
 length:

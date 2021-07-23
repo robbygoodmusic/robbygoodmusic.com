@@ -69,7 +69,27 @@ header:
                 {%- assign sorted_post = sorted_post | sort: title %}
                 <ul class="no-bullet">
                   {% if page.subheadline != "All" %}
-                  <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media">All Works</a></strong></li>
+                  <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media">All Visual Media</a></strong></li>
+                  {% endif %}
+                {% for category in sorted_post %}
+                    <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ category }}</a></strong></li>
+                {% endfor %}
+                </ul>
+            </div>
+            <div class="panel radius">
+                <h3>Genres</h3>
+                {% assign already_printed = "" | split: "" %}
+                {% assign sorted_post = "" | split: "" %}
+                {% for post in site.visual-media %}
+                {% unless already_printed contains post.genre %}
+                {%- assign sorted_post = sorted_post | push: post.genre %}
+                {%- assign already_printed = already_printed | push: post.genre %}
+                {% endunless %}
+                {% endfor %}
+                {%- assign sorted_post = sorted_post | sort: title %}
+                <ul class="no-bullet">
+                  {% if page.subheadline != "All" %}
+                  <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media">All Genres</a></strong></li>
                   {% endif %}
                 {% for category in sorted_post %}
                     <li><strong><a href="{{ site.url }}{{ site.baseurl }}/visual-media-{{ category | replace: " ", "-" | replace: "&amp;", "and" | downcase}}/">{{ category }}</a></strong></li>

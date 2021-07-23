@@ -2,6 +2,7 @@
 layout: visual-media
 title: "Goliath"
 media_type: 2D Animation
+genre: Adventure
 role: Composer
 release_date: 2019 June 8
 length: 2'45"

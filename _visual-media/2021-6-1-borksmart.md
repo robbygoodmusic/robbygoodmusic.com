@@ -2,6 +2,7 @@
 layout: visual-media
 title: "Borksmart"
 media_type: 2D Animation
+genre: Comedy
 role: Composer &amp; Sound Design
 release_date: 2021 June 5
 length: 2'45"
