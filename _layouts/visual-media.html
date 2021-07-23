@@ -131,14 +131,14 @@ header:
         {% for search in site.pages %}
             {% if search.title == "Important Dates and Events" %}
                 {% for item in search.events %}
-                    {% if item.performance_title contains page.title or if item.film contains page.title %}
+                    {% if item.performance_title contains page.title or item.film contains page.title %}
                         <div class="panel radius">
                             <h3>Important Dates</h3>
                         {% break %}
                     {% endif %}
                 {% endfor %}
                 {% for item in search.events %}
-                    {% if item.performance_title contains page.title or if item.film contains page.title %}
+                    {% if item.performance_title contains page.title or item.film contains page.title %}
                         <ul class="no-bullet">
                             <li><strong>{{ item.performance_date }}</strong></li>
                             {% if item.performance_title %}
