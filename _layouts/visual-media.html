@@ -131,15 +131,15 @@ header:
         {% for search in site.pages %}
             {% if search.title == "Important Dates and Events" %}
                 {% for item in search.events %}
-                    {% if item.performance_title contains page.title %}
+                    {% if item.performance_title contains page.title or if item.film contains page.title %}
                         <div class="panel radius">
                             <h3>Important Dates</h3>
                         {% break %}
                     {% endif %}
                 {% endfor %}
                 {% for item in search.events %}
-                    {% if item.performance_title contains page.title %}
-                            <ul class="no-bullet">
+                    {% if item.performance_title contains page.title or if item.film contains page.title %}
+                        <ul class="no-bullet">
                             <li><strong>{{ item.performance_date }}</strong></li>
                             {% if item.performance_title %}
                                 {% if item.url %}
@@ -158,36 +158,7 @@ header:
                             {% if item.film %}
                                 <li>{{ item.film }}</li>
                             {% endif %}
-                            </ul>
-                        {% endif %}
-                        {% if item.film contains page.title %}
-                        {% if class != "panel radius" %}
-                        <div class="panel radius">
-                            <h3>Important Dates</h3>
-                        {% break %}
-                        {% endif %}
-                        {% endif %}
-                        {% if item.film contains page.title %}
-                            <ul class="no-bullet">
-                            <li><strong>{{ item.performance_date }}</strong></li>
-                            {% if item.performance_title %}
-                                {% if item.url %}
-                                    <li>{{ <a href="{{ item.url }}">item.performance_title</a> }}</li>
-                                {% endif %}
-                                {% if item.url == NULL %}
-                                    <li>{{ item.performance_title }}</li>
-                                {% endif %}
-                            {% endif %}
-                            {% if item.venue %}
-                                <li>{{ item.venue }}</li>
-                            {% endif %}
-                            {% if item.city_state %}
-                                <li>{{ item.city_state }}</li>
-                            {% endif %}
-                            {% if item.film %}
-                                <li>{{ item.film }}</li>
-                            {% endif %}
-                            </ul>    
+                        </ul>
                     {% endif %}
                 {% endfor %}
             {% endif %}
