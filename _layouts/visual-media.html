@@ -155,11 +155,14 @@ header:
                             {% if item.city_state %}
                                 <li>{{ item.city_state }}</li>
                             {% endif %}
-                            {% if item.performers %}
-                                <li>{{ item.performers }}</li>
+                            {% if item.film %}
+                                <li>{{ item.film }}</li>
                             {% endif %}
-                            {% endif %}
-                                {% if item.film contains page.title %}
+                            </ul>
+                        {% endif %}
+                            
+                        {% if item.film contains page.title %}
+                            <ul class="no-bullet">
                             <li><strong>{{ item.performance_date }}</strong></li>
                             {% if item.performance_title %}
                                 {% if item.url %}
@@ -178,7 +181,7 @@ header:
                             {% if item.film %}
                                 <li>{{ item.film }}</li>
                             {% endif %}
-                        </ul>    
+                            </ul>    
                     {% endif %}
                 {% endfor %}
             {% endif %}
