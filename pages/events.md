@@ -173,7 +173,7 @@ events:
     city_state: Los Angeles, CA
     performers: Members of the Los Angeles Master Chorale, Luke McEndarfer conducting
 header:
-    image_fullwidth_staff: Kian_Header_idea_9.png
+    image_fullwidth_staff: Robby_Header.png
 ---
 
 
