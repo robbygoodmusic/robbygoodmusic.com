@@ -2,7 +2,7 @@
 layout: visual-media
 title: "The Other Half of the Apple"
 media_type: 2D Animation
-genre: Children
+genre: Miscellaneous
 role: Composer
 release_date: 2019 November 3
 length: 2'45"
