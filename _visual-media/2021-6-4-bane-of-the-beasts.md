@@ -9,7 +9,7 @@ length: 5'
 creator: Alexis Wong
 social: <a href="https://www.instagram.com/alex_the_wongbat/"><i>@alex_the_wongbat</i></a>
 availability: In circulation for festivals
-score: <a href="https://www.youtube.com/watch?v=NctDirMQJGQ"><i>Available Here</i></a>
+score: https://www.youtube.com/watch?v=NctDirMQJGQ
 youtube:
  - url-code:
 soundcloud: 

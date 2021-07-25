@@ -9,7 +9,7 @@ length: 2'45"
 creator: Huamin Wen
 social: <a href="https://wenhuamin.com"><i>wenhuamin.com</i></a>
 availability: Public
-score: <a href="https://www.youtube.com/watch?v=DZ7M2ZmUxNo"><i>Available Here</i></a>
+score: https://www.youtube.com/watch?v=DZ7M2ZmUxNo
 youtube:
  - url-code:
 soundcloud:

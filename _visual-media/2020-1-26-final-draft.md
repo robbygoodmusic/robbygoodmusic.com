@@ -9,7 +9,7 @@ length: 8'
 creator: Rose Yue Huang
 social: <a href="https://www.instagram.com/rose_hyue/"><i>@rose.hyue</i></a>
 availability: Public
-score: <a href="https://www.youtube.com/playlist?list=PLEszbnJ3MA5QaXsnogMJv3V2M0PfVhXGG"><i>Available Here</i></a>
+score: https://www.youtube.com/playlist?list=PLEszbnJ3MA5QaXsnogMJv3V2M0PfVhXGG
 youtube:
  - url-code:
 soundcloud: 

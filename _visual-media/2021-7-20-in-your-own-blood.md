@@ -9,7 +9,7 @@ length: 10'
 creator: Marivel Magsaysay
 social: <a href="https://www.marivelmagsaysay.com"><i>marivelmagsaysay.com</i></a>
 availability: Public
-score: <a href="https://www.youtube.com/playlist?list=PLEszbnJ3MA5R_xNKoT8RynqcOiCX39J17"><i>Available Here</i></a>
+score: https://www.youtube.com/playlist?list=PLEszbnJ3MA5R_xNKoT8RynqcOiCX39J17
 awards:
     - award_year: April 2021
       award_title: London International Monthly Film Festival - Best Original Score

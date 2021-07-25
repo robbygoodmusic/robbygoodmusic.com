@@ -9,7 +9,7 @@ length: 2'45"
 creator: Angela Song
 social: <a href="https://www.instagram.com/captainokra/?hl=en"><i>@captainokra</i></a>
 availability: Unreleased
-score: <a href="https://youtu.be/KTPwv1aNeHQ"><i>Available Here</i></a>
+score: https://youtu.be/KTPwv1aNeHQ
 youtube:
  - url-code:
 soundcloud: 

@@ -9,7 +9,7 @@ length: 5'
 creator: Kimberly Acosta
 social: <a href="https://www.kimberlyacosta.com"><i>kimberlyacosta.com</i></a>
 availability: Unreleased
-score: <a href="https://www.youtube.com/watch?v=gXqOukbchUc"><i>Available Here</i></a>
+score: https://www.youtube.com/watch?v=gXqOukbchUc
 youtube:
  - url-code:
 soundcloud: 
