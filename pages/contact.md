@@ -21,10 +21,6 @@ header:
     <p style="font-size:100px; margin-bottom:0"><i class="icon-mail"></i></p>
     <p class="teaser" style="white-space:nowrap;"><a href="mailto:robbygoodmusic@gmail.com">robbygoodmusic@gmail.com</a></p>
     </div>
-    <div class="medium-6 columns text-center">
-    <p style="font-size:100px; margin-bottom:0"><i class="icon-chat"></i></p>
-    <p class="teaser" style="white-space:nowrap;"><a href="tel:+1661-713-6783">+1 ‪(661) 713-6783‬</a></p>
-      </div>
     </div>
 
 
