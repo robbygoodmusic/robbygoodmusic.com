@@ -8,4 +8,4 @@ description: Interactive list of mystery-themed visual media Robby Good has work
 permalink: "/visual-media-mystery/"
 ---
 
-{% include _visual-media-list.html %}
+{% include _visual-media-list2.html %}

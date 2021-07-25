@@ -8,4 +8,4 @@ description: Interactive list of comedy-themed visual media Robby Good has worke
 permalink: "/visual-media-comedy/"
 ---
 
-{% include _visual-media-list.html %}
+{% include _visual-media-list2.html %}

@@ -8,4 +8,4 @@ description: Interactive list of horror and thriller-themed visual media Robby G
 permalink: "/visual-media-horror/thriller/"
 ---
 
-{% include _visual-media-list.html %}
+{% include _visual-media-list2.html %}

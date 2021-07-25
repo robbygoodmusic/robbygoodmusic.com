@@ -8,4 +8,4 @@ description: Interactive list of children's visual media Robby Good has worked o
 permalink: "/visual-media-children/"
 ---
 
-{% include _visual-media-list.html %}
+{% include _visual-media-list2.html %}

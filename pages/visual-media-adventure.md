@@ -8,4 +8,4 @@ description: Interactive list of adventure-themed visual media Robby Good has wo
 permalink: "/visual-media-adventure/"
 ---
 
-{% include _visual-media-list.html %}
+{% include _visual-media-list2.html %}

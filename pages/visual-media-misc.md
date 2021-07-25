@@ -8,4 +8,4 @@ description: Interactive list of miscellaneous visual media Robby Good has worke
 permalink: "/visual-media-miscellaneous/"
 ---
 
-{% include _visual-media-list.html %}
+{% include _visual-media-list2.html %}

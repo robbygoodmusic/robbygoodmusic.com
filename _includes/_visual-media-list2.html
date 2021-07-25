@@ -1,0 +1,7 @@
+<ul class="side-nav">
+    {% for post in site.visual-media reversed %}
+    {% if post.genre == page.subheadline %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<span class="works-list-titles">{{ post.title }}</span><br><span class="works-list-descriptions">{{ post.release_date }} / by {{ post.creator }}</span><span class="works-list-duration">{{ post.length }}</span></a></li>
+    {% endif %}
+    {% endfor %}
+</ul>
