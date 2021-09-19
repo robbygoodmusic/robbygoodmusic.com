@@ -22,7 +22,7 @@ events:
     url: https://www.youtube.com/watch?v=9KBvCjqmUpE
   - performance_date: 3 SEP 2021
     performance_title: Good - Public Release
-    venue: Available for Streaming Through Varying Platforms
+    venue: Available for Streaming Through Various Platforms
     city_state:
     performers:
   - performance_date: 28 AUG 2021
