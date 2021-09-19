@@ -22,5 +22,5 @@ drive:
 
 <span class="teaser"><b>Begin the journey that was forcibly thrust upon Emery, the lazy prince, and Terryn, his insufferable knight!</b>
 
-Through the prince's eyes, take in the scenery, investigate the disappearance of his brother, and track down the dragon terrorizing the kingdom.
+Through the prince's eyes, take in the scenery, investigate the disappearance of his brother, and track down the dragon terrorizing the kingdom.</span>
 <cite>Description on <a href="https://vythefirst.itch.io/prince-and-knight-demo"><i>itch.io</i></a></cite>
