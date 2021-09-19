@@ -1,0 +1,23 @@
+---
+layout: visual-media
+title: "Buddy Bot"
+media_type: Short Film
+genre: Comedy
+role: Composer
+release_date: 2021 August 13
+length: 15'
+creator: Joey Jordan
+social: <a href="https://www.instagram.com/joeyjordanfilm/"><i>@joeyjordanfilm</i></a>/<a href="https://www.instagram.com/buddybot_/"><i>@buddybot_</i></a>
+availability: In circulation for festivals
+score:
+youtube:
+ - url-code:
+soundcloud: 
+ - url:
+vimeo:
+ - url:
+drive:
+ - url:
+---
+
+After Adam is brought home by the police, his mom finally gives in and puts him under the supervision of Buddy, a robot designed to keep small kids in check while their parents are away. Once Buddy starts killing all of Adam's fun, he starts to take matters into his own hands.

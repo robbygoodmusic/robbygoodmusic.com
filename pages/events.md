@@ -31,6 +31,11 @@ events:
     city_state: Los Angeles, CA
     performers: Alex Lee
     url: https://www.youtube.com/watch?v=5r_U0wuxYTI
+  - performance_date: 13 AUG 2021
+    performance_title: Dodge College - Thesis Screening
+    venue: Chapman University
+    city_state: Orange, California
+    film: Premiere of <i>Buddy Bot</i>
   - performance_date: 12 JUN 2021
     performance_title: Upstream - UCLA End of Quarter Showcase
     venue: UCLA (Livestream)
