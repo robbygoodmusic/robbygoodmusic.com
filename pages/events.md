@@ -8,11 +8,29 @@ events:
     venue:
     city_state:
     performers:
-  - performance_date: 3 SEP 2021
-    performance_title: Good - Public Release
-    venue: Streaming TBD
+  - performance_date: 11 SEP 2021
+    performance_title: Prince and Knight (Demo) - Public Demo Release
+    venue: Free Download off itch.io
     city_state:
     performers:
+    url: https://vythefirst.itch.io/prince-and-knight-demo
+  - performance_date: 6 SEP 2021
+    performance_title: Project&colon; Eden's Garden - &quot;Final Adjudication&quot;
+    venue: Official YouTube Channel
+    city_state:
+    performers:
+    url: https://www.youtube.com/watch?v=9KBvCjqmUpE
+  - performance_date: 3 SEP 2021
+    performance_title: Good - Public Release
+    venue: Available for Streaming Through Varying Platforms
+    city_state:
+    performers:
+  - performance_date: 28 AUG 2021
+    performance_title: Saxophone Quartet (Mvts. I and II) - Virtual Premiere
+    venue: YouTube
+    city_state: Los Angeles, CA
+    performers: Alex Lee
+    url: https://www.youtube.com/watch?v=5r_U0wuxYTI
   - performance_date: 12 JUN 2021
     performance_title: Upstream - UCLA End of Quarter Showcase
     venue: UCLA (Livestream)
