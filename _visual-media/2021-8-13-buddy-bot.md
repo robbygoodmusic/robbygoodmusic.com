@@ -9,7 +9,7 @@ length: 15'
 creator: Joey Jordan
 social: <a href="https://www.instagram.com/joeyjordanfilm/"><i>@joeyjordanfilm</i></a>/<a href="https://www.instagram.com/buddybot_/"><i>@buddybot_</i></a>
 availability: In circulation for festivals
-score:
+score: https://www.youtube.com/playlist?list=PLEszbnJ3MA5SPlSs9E_1Frj4gvOfJchuk
 youtube:
  - url-code:
 soundcloud: 

@@ -9,7 +9,7 @@ length: 4'
 creator: Stacy Li
 social: <a href="https://www.instagram.com/sylichee/?hl=en"><i>@sylichee</i></a>
 availability: In circulation for festivals
-score:
+score: https://www.youtube.com/watch?v=l31NMPPM-Js
 youtube:
  - url-code:
 soundcloud: 
