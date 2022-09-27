@@ -4,10 +4,121 @@ title: "Important Dates and Events"
 permalink: "/events/"
 events:
   - performance_date: 2022
-    performance_title: Project&colon; Eden's Garden - Release Date
+    performance_title: Project&colon; Eden's Garden - Demo Release Date
     venue:
     city_state:
     performers:
+  - performance_date: 27 AUG 2022
+    performance_title: Project&colon; Eden's Garden - August 2022 Dev-Vlog
+    venue: Official YouTube Channel
+    city_state:
+    performers:
+    url: https://www.youtube.com/watch?v=ah2XGIC19I0
+  - performance_date: 8 MAY 2022
+    performance_title: Must Be Witches (Orchestral Version) - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: Robby Good, vocals; Matthew Deegan, vocals
+    url: https://www.youtube.com/watch?v=_6H-iMegteY
+  - performance_date: 8 MAY 2022
+    performance_title: Film Suite - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    film: Featuring <i>Goliath</i>, <i>The Other Half of the Apple</i>, <i>Upstream</i>, <i>The Dog Who Brought Home The Sun</i>, <i>Final Draft</i>, <i>In Your Own Blood</i>, <i>Bane of the Beasts</i>, <i>Buddy Bot</i>, &amp; <i>Understanding</i>
+    url: https://www.youtube.com/watch?v=WbBNCDdl_O4
+  - performance_date: 8 MAY 2022
+    performance_title: The Medley from &quot;Dis-Topia&quot; - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: Katrina Negrete, Vera (soprano); Ellie Rice, Employee 1/Lost Boy (alto); Yerry Wright, Kats (tenor); Troy Robertson, Walt (baritone)
+    url: https://www.youtube.com/watch?v=hhU1XUFZrLw
+  - performance_date: 8 MAY 2022
+    performance_title: Project&colon; Eden's Garden - &quot;Main Title&quot; - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers:
+    url: https://www.youtube.com/watch?v=a5_H5R-ZwRc
+  - performance_date: 8 MAY 2022
+    performance_title: Always In The Music - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: Katrina Negrete, vocals
+    url: https://www.youtube.com/watch?v=8S2D8YBBvyM
+  - performance_date: 8 MAY 2022
+    performance_title: Fantasy for Saxophone Quartet (Mvts. I and II) - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: Mathew Harget, soprano sax; Brendan Lockie, alto sax; Breanna Kim, tenor sax; Alex Lee, baritone sax
+    url: https://www.youtube.com/watch?v=ZbR_3djXsc8
+  - performance_date: 8 MAY 2022
+    performance_title: My Prelude and Fugue - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: Sydney Wang, piano
+    url: https://www.youtube.com/watch?v=9cS0ifFP2U0
+  - performance_date: 8 MAY 2022
+    performance_title: glass moonlight - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: Darren Liou, clarinet; Celeste Peña, violin; Christopher Ye, cello
+    url: https://www.youtube.com/watch?v=OitBQ95qwgY
+  - performance_date: 8 MAY 2022
+    performance_title: Bounce Back to Back - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: Christian Gonzales, violin; Joe Kim, cello
+    url: https://www.youtube.com/watch?v=bwtk9Lf2zGY
+  - performance_date: 8 MAY 2022
+    performance_title: Two Guys One Beat - Composition Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers: Andrew Sonico Eugenio, vocal percussion; Robby Good, percussion
+    url: https://www.youtube.com/watch?v=YVz-MtlzSQo
+  - performance_date: 8 MAY 2022
+    performance_title: Percussion Performance Capstone Recital
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    performers:
+    url: https://www.youtube.com/watch?v=RShzhTQWDPQ
+  - performance_date: 26 MAR 2022
+    performance_title: Project&colon; Eden's Garden - Official VA-Cast Reveal
+    venue: Official YouTube Channel
+    city_state:
+    performers:
+    url: https://www.youtube.com/watch?v=YgwHaTih0Cw
+  - performance_date: 6 MAR 2022
+    performance_title: one is two is one - World Premiere
+    venue: UCLA - Ostin Ensemble Room
+    city_state: Los Angeles, CA
+    performers: Diotima Quartet
+    url: https://www.youtube.com/watch?v=YVz-MtlzSQo
+  - performance_date: 4 MAR 2022
+    performance_title: Matt Groening Production Fellowship in Animation Showcase
+    venue: UCLA - James Bridges Theater
+    city_state: Los Angeles, CA
+    film: Premiere of <i>Eyes of the Warlord</i> &amp; <i>Understanding</i>
+  - performance_date: 14 JAN 2022
+    performance_title: Crazy (Orchestral) - Public Release
+    venue: Available on Music Streaming Platforms
+    city_state:
+    performers:
+    url: https://open.spotify.com/track/6DVeEpohtXtE8cfTYXiUVR?si=cfb8d64383b746b9
+  - performance_date: 9 NOV 2021
+    performance_title: The Dog Who Brought Home the Sun - UCLA Composers Showcase
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    film: Screening of <i>The Dog Who Brought Home The Sun</i>
+  - performance_date: 5 NOV 2021
+    performance_title: Dis-Topia - World Premiere Performance
+    venue: Chapman University
+    city_state: Orange, CA
+    performers: Chapman TPS - The Players' Society
+    url: https://www.youtube.com/watch?v=6pYofy0k99U
+  - performance_date: 15 OCT 2021
+    performance_title: The Dog Who Brought Home the Sun - &quot;UCLA Back to School Night&quot; Music Showcase
+    venue: UCLA - Schoenberg Hall
+    city_state: Los Angeles, CA
+    film: Screening of <i>The Dog Who Brought Home The Sun</i>
   - performance_date: 11 SEP 2021
     performance_title: Prince and Knight (Demo) - Public Demo Release
     venue: Free Download off itch.io
@@ -26,7 +137,7 @@ events:
     city_state:
     performers:
   - performance_date: 28 AUG 2021
-    performance_title: Saxophone Quartet (Mvts. I and II) - Virtual Premiere
+    performance_title: Fantasy for Saxophone Quartet (Mvts. I and II) - Virtual Premiere
     venue: YouTube
     city_state: Los Angeles, CA
     performers: Alex Lee
@@ -42,7 +153,7 @@ events:
     city_state: Los Angeles, CA
     performers:
   - performance_date: 12 JUN 2021
-    performance_title: Saxophone Quartet (I&colon; Twisted Steps) - UCLA End of Quarter Showcase
+    performance_title: Fantasy for Saxophone Quartet (I&colon; Twisted Steps) - UCLA End of Quarter Showcase
     venue: UCLA (Livestream)
     city_state: Los Angeles, CA
     performers: Alex Lee, soprano sax; Joshua Park, alto sax; O'Connor Langi, tenor sax; Emma Mooradian, baritone sax
@@ -52,7 +163,7 @@ events:
     city_state: Los Angeles, California
     film: Premiere of <i>Borksmart</i>, <i>Rewind</i>, <i>Upstream</i>, <i>Bane of the Beasts</i>, &amp; <i>The Dog Who Brought Home The Sun</i>, Screening of <i>The Other Half of the Apple</i>
   - performance_date: 23 MAY 2021
-    performance_title: Junior Percussion Recital
+    performance_title: Junior Percussion Performance Recital
     venue: UCLA (Livestream)
     city_state: Los Angeles, CA
     performers:
@@ -109,7 +220,7 @@ events:
     performance_title: Always In The Music - Premiere at Farewell Concert in Honor of Kathryn Spula
     venue: Hart Auditorium
     city_state: Newhall, CA
-    performers: Hart Wind Ensemble + Placerita Junior High Advanced Band
+    performers: Hart Wind Ensemble + Placerita Junior High Advanced Band; Katrina Negrete, vocals
   - performance_date: 6 MAY 2019
     performance_title: The Combine
     venue: UCLA - Schoenberg Hall
@@ -134,7 +245,7 @@ events:
     performance_title: Bounce Back to Back - UCLA Composers Showcase
     venue: UCLA - Jan Popper Theater
     city_state: Los Angeles, CA
-    performers: Christian Gonzales, violin; Joseph Kim, cello    
+    performers: Christian Gonzales, violin; Joe Kim, cello    
   - performance_date: 19 MAY 2018
     performance_title: The Combine - World Premiere
     venue: Walt Disney Concert Hall - BP Hall

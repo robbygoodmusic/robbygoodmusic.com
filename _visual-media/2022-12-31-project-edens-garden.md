@@ -4,7 +4,7 @@ title: "Project&colon; Eden's Garden"
 media_type: Video Game
 genre: Mystery
 role: Co-Composer
-release_date: TBD 2022
+release_date: Q4 2022 (Demo)
 length:
 creator: Team&colon; Eden's Garden
 social: <a href="https://twitter.com/ProjEdensGarden"><i>@ProjEdensGarden</i></a>

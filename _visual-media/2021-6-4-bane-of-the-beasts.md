@@ -8,7 +8,7 @@ release_date: 2021 June 5
 length: 5'
 creator: Alexis Wong
 social: <a href="https://www.instagram.com/alex_the_wongbat/"><i>@alex_the_wongbat</i></a>
-availability: In circulation for festivals
+availability: Released through festivals
 score: https://www.youtube.com/watch?v=NctDirMQJGQ
 youtube:
  - url-code:
