@@ -11,7 +11,7 @@ score_url:
 drive:
  - url:
 youtube:
- - url-code: https://www.youtube.com/watch?v=hhU1XUFZrLw
+ - url-code: hhU1XUFZrLw
 soundcloud: 
  - url:
 ---
