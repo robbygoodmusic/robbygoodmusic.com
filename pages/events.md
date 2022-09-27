@@ -32,7 +32,7 @@ events:
     film: Featuring <i>Goliath</i>, <i>The Other Half of the Apple</i>, <i>Upstream</i>, <i>The Dog Who Brought Home The Sun</i>, <i>Final Draft</i>, <i>In Your Own Blood</i>, <i>Bane of the Beasts</i>, <i>Buddy Bot</i>, &amp; <i>Understanding</i>
     url: https://www.youtube.com/watch?v=WbBNCDdl_O4
   - performance_date: 8 MAY 2022
-    performance_title: The Medley from &quot;Dis-Topia&quot; - Composition Capstone Recital
+    performance_title: The Medley From &quot;Dis-Topia&quot; - Composition Capstone Recital
     venue: UCLA - Schoenberg Hall
     city_state: Los Angeles, CA
     performers: Katrina Negrete, Vera (soprano); Ellie Rice, Employee 1/Lost Boy (alto); Yerry Wright, Kats (tenor); Troy Robertson, Walt (baritone)
