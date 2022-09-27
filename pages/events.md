@@ -96,7 +96,7 @@ events:
     venue: UCLA - Ostin Ensemble Room
     city_state: Los Angeles, CA
     performers: Diotima Quartet
-    url: https://www.youtube.com/watch?v=YVz-MtlzSQo
+    url:
   - performance_date: 4 MAR 2022
     performance_title: Matt Groening Production Fellowship in Animation Showcase
     venue: UCLA - James Bridges Theater
@@ -109,7 +109,7 @@ events:
     performers:
     url: https://open.spotify.com/track/6DVeEpohtXtE8cfTYXiUVR?si=cfb8d64383b746b9
   - performance_date: 9 NOV 2021
-    performance_title: The Dog Who Brought Home the Sun - UCLA Composers Showcase
+    performance_title: The Dog Who Brought Home The Sun - UCLA Composers Showcase
     venue: UCLA - Schoenberg Hall
     city_state: Los Angeles, CA
     film: Screening of <i>The Dog Who Brought Home The Sun</i>
@@ -120,7 +120,7 @@ events:
     performers: Chapman TPS - The Players' Society
     url: https://www.youtube.com/watch?v=6pYofy0k99U
   - performance_date: 15 OCT 2021
-    performance_title: The Dog Who Brought Home the Sun - &quot;UCLA Back to School Night&quot; Music Showcase
+    performance_title: The Dog Who Brought Home The Sun - &quot;UCLA Back to School Night&quot; Music Showcase
     venue: UCLA - Schoenberg Hall
     city_state: Los Angeles, CA
     film: Screening of <i>The Dog Who Brought Home The Sun</i>
