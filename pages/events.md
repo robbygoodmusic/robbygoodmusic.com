@@ -14,6 +14,11 @@ events:
     city_state:
     performers:
     url: https://www.youtube.com/watch?v=ah2XGIC19I0
+  - performance_date: 4 JUN 2021
+    performance_title: UCLA Animation Extravaganza 2022
+    venue: UCLA - James Bridges Theater
+    city_state: Los Angeles, California
+    film: Premiere of <i>Winter in a Day</i>, Screening of <i>Eyes of the Warlord</i> &amp; <i>Understanding</i>
   - performance_date: 8 MAY 2022
     performance_title: Must Be Witches (Orchestral Version) - Composition Capstone Recital
     venue: UCLA - Schoenberg Hall
