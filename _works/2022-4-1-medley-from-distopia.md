@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "The Medley From Dis-Topia"
+title: "The Medley From &quot;Dis-Topia&quot;"
 instrumentation: orchestra + SATB soloists
 year_composed: 2021 (arr. 2022)
 category_music: Wind Ensemble/Orchestra
