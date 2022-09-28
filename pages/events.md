@@ -14,7 +14,7 @@ events:
     city_state:
     performers:
     url: https://www.youtube.com/watch?v=ah2XGIC19I0
-  - performance_date: 4 JUN 2021
+  - performance_date: 4 JUN 2022
     performance_title: UCLA Animation Extravaganza 2022
     venue: UCLA - James Bridges Theater
     city_state: Los Angeles, California

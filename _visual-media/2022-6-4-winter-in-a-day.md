@@ -4,7 +4,7 @@ title: "Winter in a Day"
 media_type: 2D Animation
 genre: Children
 role: Composer
-release_date: 2021 June 5
+release_date: 2022 June 4
 length: 6'45"
 creator: Liddy Salter
 social: <a href="https://www.liddysalter.com"><i>liddysalter.com</i></a>
