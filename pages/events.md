@@ -434,6 +434,14 @@ header:
                     {% if item.film %}
                     <li style="color:dimgray;">{{ item.film }}</li>
                     {% endif %}
+        {% for work in site.songs %}
+                    {% if item.performance_title contains work.title %}
+                    {% capture not-title %}
+                    {{ item.performance_title | remove: work.title }}
+                    {% endcapture %}
+                    <li style="font-size:20px;"><b><a href="{{ site.url }}{{ site.baseurl }}{{ work.url }}">{{ work.title }}</a>{{not-title}}</b></li>
+                    {% endif %}
+                    {% endfor %}
       </ul>
       </div>
     </div>
