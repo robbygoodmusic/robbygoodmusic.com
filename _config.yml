@@ -275,6 +275,17 @@ asciidoctor:
 # Works collections
 
 collections:
-
+    works:
+        output: true
+        permalink: /works/:title/
+    visual-media:
+        output: true
+        permalink: /visual-media/:title/
+    songs:
+        output: true
+        permalink: /songs/:title/ 
+    arrangements:
+        output: true
+        permalink: /arrangements/:title/
     press:
         output: false
