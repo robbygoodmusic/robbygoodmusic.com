@@ -1,5 +1,5 @@
 ---
-layout: works
+layout: songs
 sidebar: right
 show_meta: false
 title: "Songs and Other Projects"

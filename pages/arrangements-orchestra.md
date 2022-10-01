@@ -1,5 +1,5 @@
 ---
-layout: works
+layout: arrangement
 sidebar: right
 show_meta: false
 title: "Arrangements"
