@@ -8,4 +8,4 @@ description: Interactive list of chamber arrangements by Robby Good.
 permalink: "/arrangements-chamber/"
 ---
 
-{% include _works-list.html %}
+{% include _arrangements-list.html %}

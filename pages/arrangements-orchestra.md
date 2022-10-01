@@ -8,4 +8,4 @@ description: Interactive list of orchestral arrangements by Robby Good.
 permalink: "/arrangements-orchestra/"
 ---
 
-{% include _works-list.html %}
+{% include _arrangements-list.html %}
