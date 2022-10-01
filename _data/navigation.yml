@@ -9,6 +9,10 @@
 - title: "Playable Works"
   url: "/works/"
   side: right
+  
+- title: "Songs and Other Projects"
+  url: "/songs/"
+  side: right
 
 - title: "Events"
   url: "/events/"
