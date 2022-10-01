@@ -280,9 +280,9 @@ collections:
         permalink: /works/:title/
     visual-media:
         output: true
-        permalink: /visual-media/:title/
-    songs:
+        permalink: /visual-media/:title/ 
+    arrangements:
         output: true
-        permalink: /songs/:title/ 
+        permalink: /arrangements/:title/
     press:
         output: false
