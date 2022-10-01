@@ -4,7 +4,7 @@ title: "Fantasy for Saxophone Quartet"
 instrumentation: saxophone quartet
 year_composed: 2022
 category_music: Chamber Ensemble
-duration: 10'-11'
+duration: 13'-14'
 commissioner:
 score_url:
 drive:
