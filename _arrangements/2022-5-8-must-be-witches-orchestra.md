@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: arrangement
 title: "Must Be Witches (Orchestral Version)"
 instrumentation: orchestra + big band
 year_arranged: 2022

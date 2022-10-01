@@ -1,5 +1,5 @@
 ---
-layout: work
+layout: arrangement
 title: "MEGALOVANIA (Percussion Ensemble)"
 instrumentation: percussion ensemble
 year_arranged: 2021
