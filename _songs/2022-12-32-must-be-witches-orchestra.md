@@ -1,20 +1,25 @@
 ---
-layout: work
+layout: song
 title: "Must Be Witches (Orchestral Version)"
-instrumentation: big band + orchestra + vocal duet
-year_composed: 2016 (arr. 2022)
-category_music: Wind Ensemble/Orchestra
+project_type: Song
+instrumentation: orchestra + big band 
+role: Composer/Orchestrator
+release_date: TBD
 duration: 4'30"
-orchestration: 2.1.3.bcl.1 - 2ax.1tx.1bx - 4.3.2.1 - timp.perc(3) - pf - egtr - bgtr - ds - 2vox - str
+creator:
+co-writer: Matthew Deegan
 commissioner:
-score_url:
-drive:
- - url:
+score:
 youtube:
  - url-code: _6H-iMegteY
 soundcloud: 
  - url:
----
+vimeo:
+ - url:
+drive:
+ - url:
+spotify:
+ - url:
 
 <p>Matthew Deegan and I have been a creative force for several years now, fueling and enabling each other in ways that simply would not be possible without the other. We began our creative partnership by writing some simple, fun (and relatively ambitious) songs together in high school, and, as of now, almost every one of those songs has found a new home, whether it be nestled somewhere in the soundtrack of <a href="{{ site.url }}{{ site.baseurl }}/songs/distopia/"><i>Dis-Topia</i></a>, or existing on its own as an individual release online. However, the second song that we had ever written together, and the one that we both feel holds a particularly fond place in our hearts, is one that never ended up officially seeing the light of day.</p>
 <p>During a lunch period in high school, Deegan and I were sitting at a piano in the school auditorium, brainstorming some musical ideas and getting nowhere. After letting our minds wander and getting distracted, I began talking about the Salem witch trials (which we had just talked about in history class that day), and how utterly absurd and disgusting the idea of this part of history was. How incredibly revealing of human nature it is that fear mongering and the shifting of blame could be taken to such a ridiculous extreme – to me it almost felt like a farce, that such an utterly comical idea could have led to such a radical and tragic part of our world’s history. While we were talking, I was letting my hands wander across the piano, and in my improvisation I landed on a spooky ascending chromatic figure. I then put a swing on it, Deegan began saying some nonsensical phrases, and by the end of our lunch period, <i>Must Be Witches</i> had taken shape.</p>

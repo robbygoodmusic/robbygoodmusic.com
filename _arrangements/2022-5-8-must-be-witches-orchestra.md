@@ -1,18 +1,24 @@
 ---
 layout: work
 title: "Must Be Witches (Orchestral Version)"
-instrumentation: big band + orchestra + vocal duet
-year_composed: 2016 (arr. 2022)
-category_music: Wind Ensemble/Orchestra
+instrumentation: orchestra + big band
+year_arranged: 2022
+category_music: Orchestra
 duration: 4'30"
 orchestration: 2.1.3.bcl.1 - 2ax.1tx.1bx - 4.3.2.1 - timp.perc(3) - pf - egtr - bgtr - ds - 2vox - str
+original_composer: Robby Good &amp; Matthew Deegan
 commissioner:
+language:
 score_url:
 drive:
  - url:
 youtube:
  - url-code: _6H-iMegteY
 soundcloud: 
+ - url:
+vimeo:
+ - url:
+spotify:
  - url:
 ---
 

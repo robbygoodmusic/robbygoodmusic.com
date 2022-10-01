@@ -1,0 +1,177 @@
+---
+layout: default
+format: work
+header:
+    image_fullwidth_staff: Robby_Header.png
+---
+
+<!--Title-->
+<div class="row t10">
+    <div class="breadcrumbs">
+    <a href="{{ site.url }}{{ site.baseurl }}/visual-media/">&#171; Other Visual Media</a>
+    </div>
+    <div class="medium-8 columns medium-push-4">
+        <header>
+            <div itemprop="name">
+                <h1>{{ page.title }}</h1>
+                {% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+            </div>
+        </header>
+
+<!--Text content-->
+        <div>
+            {{ content }}
+        </div>
+        
+        <!--Video-->
+        
+        {% for item in page.youtube %}
+        {% if item.url-code %}
+        <div class="center flex-video widescreen vimeo">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ item.url-code }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        {% endif %}
+        {% endfor %}
+        
+        {% for item in page.vimeo %}
+        {% if item.url %}
+        <div class="center flex-video widescreen vimeo">
+            <iframe src="https://player.vimeo.com/video/{{ item.url }}" width="56" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        {% endif %}
+        {% endfor %}
+        
+        {% for item in page.drive %}
+        {% if item.url %}
+        <div>
+            <iframe src="{{ item.url }}" width="640" height="480" allow="autoplay"></iframe>
+        </div>
+        {% endif %}
+        {% endfor %}
+        
+        <!--Soundcloud-->
+
+        {% for item in page.soundcloud %}
+        {% if item.url %}
+        <iframe width="100%" height="200" scrolling="no" frameborder="no" src="{{ item.url }}"></iframe>
+        {% endif %}
+        {% endfor %}
+        
+        {% for item in page.spotify %}
+        {% if item.url %}
+        <div>
+            <iframe style="border-radius:12px" src="{{ item.url }}" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+        </div>
+        {% endif %}
+        {% endfor %}
+
+    </div><!-- /.medium-8.columns -->
+
+
+    <!--Details-->
+
+    <div class="medium-4 columns medium-pull-8">
+        <div class="panel radius">
+            <h3>Details</h3>
+            <ul class="no-bullet">
+                {% if page.project_type %}
+                <li><strong>Project Type:</strong> {{ page.project_type }}</li>
+                {% endif %}
+                {% if page.genre %}
+                <li><strong>Instrumentation:</strong> {{ page.instrumentation }}</li>
+                {% endif %}
+                {% if page.role %}
+                <li><strong>Role:</strong> {{ page.role }}</li>
+                {% endif %}
+                {% if page.release_date %}
+                <li><strong>Release Date:</strong> {{ page.release_date }}</li>
+                {% endif %}
+                {% if page.length %}
+                <li><strong>Duration: </strong>{{ page.duration }}</li>
+                {% endif %}
+                {% if page.orchestration %}
+                <li><strong>Orchestration:</strong> {{ page.orchestration }}</li>
+                {% endif %}
+                {% if page.creator %}
+                <li><strong>Creator:</strong> {{ page.creator }}</li>
+                {% endif %}
+                {% if page.commissioner %}
+                <li><strong>Commissioner:</strong> {{ page.commissioner }}</li>
+                {% endif %}
+                {% if page.availability %}
+                <li><strong>Availability:</strong> {{ page.availability }}</li>
+                {% endif %}
+                {% if page.score %}
+                <li style="text-align: center;"><a href="#" onclick="MyWindow=window.open('{{ page.score }}','MyWindow','toolbar=no,location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, width=1000, height=650'); return false;" id="yui_3_10_1_1_1399924008830_533" target="_blank" class="button tiny expand score" style="margin-bottom: 0; margin-top: 10px;"><strong>Listen to the Score Here! ›</strong></a></li>
+                {% endif %}
+            </ul>
+        </div>
+
+        <!--Awards-->
+
+        {% if page.awards %}
+        <div class="panel radius">
+            <h3>Awards</h3>
+            {% for item in page.awards %}
+            <ul class="no-bullet">
+            <li><strong>{{ item.award_year }}</strong></li>
+                {% if item.award_title %}
+                <li>
+                {% if item.award_url %}
+                <a href="{{ item.award_url }}" target="_blank">
+                {% endif %}
+                {{ item.award_title }}
+                {% if item.award_url %}
+                </a>
+                {% endif %}
+                </li>
+                {% endif %}
+                {% if item.award_rank %}
+                <li><i>{{ item.award_rank }}</i></li>
+            {% endif %}
+            </ul>
+            {% endfor %}
+        </div>
+        {% endif %}
+
+        <!--Events-->
+
+        {% for search in site.pages %}
+            {% if search.title == "Important Dates and Events" %}
+                {% for item in search.events %}
+                    {% if item.performance_title contains page.title or item.film contains page.title %}
+                        <div class="panel radius">
+                            <h3>Important Dates</h3>
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+                {% for item in search.events %}
+                    {% if item.performance_title contains page.title or item.film contains page.title %}
+                        <ul class="no-bullet">
+                            <li><strong>{{ item.performance_date }}</strong></li>
+                            {% if item.performance_title %}
+                                {% if item.url %}
+                                <li><a href="{{ item.url }}">{{ item.performance_title }}</a></li>
+                                {% endif %}
+                                {% if item.url == NULL %}
+                                    <li>{{ item.performance_title }}</li>
+                                {% endif %}
+                            {% endif %}
+                            {% if item.venue %}
+                                <li>{{ item.venue }}</li>
+                            {% endif %}
+                            {% if item.city_state %}
+                                <li>{{ item.city_state }}</li>
+                            {% endif %}
+                            {% if item.film %}
+                                <li>{{ item.film }}</li>
+                            {% endif %}
+                        </ul>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+        </div>
+                
+    </div><!-- /.row -->
+</div>
