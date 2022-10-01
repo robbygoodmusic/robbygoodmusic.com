@@ -10,6 +10,10 @@
   url: "/works/"
   side: right
   
+- title: "Arrangements"
+  url: "/arrangements/"
+  side: right
+  
 - title: "Songs and Other Projects"
   url: "/songs/"
   side: right
