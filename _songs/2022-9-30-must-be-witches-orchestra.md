@@ -4,7 +4,7 @@ title: "Must Be Witches (Orchestral Version)"
 project_type: Song
 instrumentation: orchestra + big band 
 role: Composer/Orchestrator
-release_date: TBD
+release_date: 8 May 2022 (studio release TBD)
 duration: 4'30"
 creator:
 co-writer: Matthew Deegan
