@@ -9,7 +9,7 @@ orchestration: 2.picc.2.2.bcl.2 - 4.2.2.btb.1 - timp.perc(7) - hp - pf/cel - egt
 commissioner:
 score_url:
 drive:
- - url:
+ - url: https://drive.google.com/file/d/1hCEQVRPgOLsZlUAQbX0423HBxjWHpxLH/preview
 youtube:
  - url-code: hhU1XUFZrLw
 soundcloud: 
